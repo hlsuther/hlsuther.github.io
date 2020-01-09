@@ -2,220 +2,119 @@
 
 NOTE Netflix
 NOTE Profile: webvtt-lssdh-ios13
-NOTE Date: 2020/01/09 13:33:31
+NOTE Date: 2020/01/09 15:18:36
 
 NOTE SegmentIndex
-NOTE Segment=154.625 2091@1065 8
-NOTE Segment=528.750 607@3156 2
-NOTE Segment=561.167 2906@3763 13
-NOTE Segment=594.667 1310@6669 5
-NOTE Segment=337.958 757@7979 3
-NOTE Segment=661.333 428@8736 1
-NOTE Segment=4.000 277@9164 1
-NOTE Segment=915.917 198@9441 1
-NOTE Segment=184.792 411@9639 2
-NOTE Segment=1019.500 421@10050 1
-NOTE Segment=518.542 688@10471 2
-NOTE Segment=1590.000 491@11159 1
-NOTE Segment=8.917 1243@11650 3
+NOTE Segment=120.000 6630@203 23
 NOTE /SegmentIndex
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+                                        
 
 
 1
-00:01:36.958 --> 00:01:41.125 position:50.00%,middle align:middle size:80.00% line:79.33% 
+00:00:05.000 --> 00:00:10.000 position:50.00%,middle align:middle size:80.00% line:79.33% 
 <c.bg_transparent><c.Japanese>&lrm;昔 家を塗るのは
 ペンキ屋だと思ってた</c.Japanese></c.bg_transparent>
 
 2
-00:01:42.458 --> 00:01:43.750 position:50.00%,middle align:middle size:80.00% line:84.67% 
+00:00:10.000 --> 00:00:15.000 position:50.00%,middle align:middle size:80.00% line:84.67% 
 <c.bg_transparent><c.Japanese>&lrm;世間知らずさ</c.Japanese></c.bg_transparent>
 
 3
-00:01:44.500 --> 00:01:46.416 position:50.00%,middle align:middle size:80.00% line:84.67% 
+00:00:15.000 --> 00:00:20.000 position:50.00%,middle align:middle size:80.00% line:84.67% 
 <c.bg_transparent><c.Japanese>&lrm;俺は労働者だった</c.Japanese></c.bg_transparent>
 
 4
-00:01:46.958 --> 00:01:51.791 position:50.00%,middle align:middle size:80.00% line:79.33% 
+00:00:20.000 --> 00:00:25.000 position:50.00%,middle align:middle size:80.00% line:79.33% 
 <c.bg_transparent><c.Japanese>&lrm;<c.bg_transparent><c.Japanese><ruby><c.bg_transparent><c.Japanese>全米トラック運転組合</c.Japanese></c.bg_transparent><c.bg_transparent><c.Japanese><rt>チームスター</rt></c.Japanese></c.bg_transparent></ruby></c.Japanese></c.bg_transparent>
 第107支部の交渉委員で…</c.Japanese></c.bg_transparent>
 
 5
-00:02:13.250 --> 00:02:15.333 vertical:rl position:50.00%,middle size:80.00% line:10.00% 
+00:00:25.000 --> 00:00:30.000 vertical:rl position:50.00%,middle size:80.00% line:10.00% 
 <c.bg_transparent><c.Japanese>〝ブファリーノ夫妻の</c.Japanese></c.bg_transparent>
 <c.bg_transparent><c.Japanese>令嬢</c.Japanese></c.bg_transparent><c.bg_transparent><c.Japanese>―</c.Japanese></c.bg_transparent><c.bg_transparent><c.Japanese> 〞</c.Japanese></c.bg_transparent>
 
 6
-00:02:15.458 --> 00:02:17.708 vertical:rl position:50.00%,middle size:80.00% line:10.00% 
+00:00:30.000 --> 00:00:35.000 vertical:rl position:50.00%,middle size:80.00% line:10.00% 
 <c.bg_transparent><c.Japanese>〝グレース＝アンの</c.Japanese></c.bg_transparent>
 <c.bg_transparent><c.Japanese>結婚式 〞</c.Japanese></c.bg_transparent>
 
 7
-00:02:24.083 --> 00:02:27.833 position:50.00%,middle align:middle size:80.00% line:79.33% 
+00:00:35.000 --> 00:00:40.000 position:50.00%,middle align:middle size:80.00% line:79.33% 
 <c.bg_transparent><c.Japanese>&lrm;すべてが結婚式を
 中心に回ってた</c.Japanese></c.bg_transparent>
 
 8
-00:02:31.250 --> 00:02:34.458 position:50.00%,middle align:middle size:80.00% line:84.67% 
+00:00:40.000 --> 00:00:45.000 position:50.00%,middle align:middle size:80.00% line:84.67% 
 <c.bg_transparent><c.Japanese>&lrm;ビルの娘がデトロイトで挙式</c.Japanese></c.bg_transparent>
 
 9
-00:02:34.625 --> 00:02:38.916 position:50.00%,middle align:middle size:80.00% line:79.33% 
+00:00:45.000 --> 00:00:50.000 position:50.00%,middle align:middle size:80.00% line:79.33% 
 <c.bg_transparent><c.Japanese>&lrm;ビルは組合の弁護士で</c.Japanese></c.bg_transparent>
 <c.bg_transparent><c.Japanese>&lrm;ラッセルの従兄弟だった</c.Japanese></c.bg_transparent>
 
 10
-00:11:20.708 --> 00:11:22.916 vertical:rl position:50.00%,middle size:80.00% line:10.00% 
+00:00:50.000 --> 00:00:55.000 vertical:rl position:50.00%,middle size:80.00% line:10.00% 
 <c.bg_transparent><c.Japanese>〝Ａグレード肉 </c.Japanese></c.bg_transparent><c.bg_transparent><c.Japanese>25</c.Japanese></c.bg_transparent><c.bg_transparent><c.Japanese>塊 〞</c.Japanese></c.bg_transparent>
 
 11
-00:11:23.375 --> 00:11:24.541 position:50.00%,middle align:middle size:80.00% line:84.67% 
+00:00:55.000 --> 00:01:00.000 position:50.00%,middle align:middle size:80.00% line:84.67% 
 <c.bg_transparent><c.Japanese>&lrm;ほらよ</c.Japanese></c.bg_transparent>
 
 12
-00:17:02.208 --> 00:17:06.500 position:50.00%,middle align:middle size:80.00% line:79.33% 
+00:01:00.000 --> 00:01:05.000 position:50.00%,middle align:middle size:80.00% line:79.33% 
 <c.bg_transparent><c.Japanese>&lrm;元カナダドライ勤務が
 ウソだと分かった</c.Japanese></c.bg_transparent>
 
 13
-00:17:11.416 --> 00:17:12.958 vertical:rl position:50.00%,middle size:80.00% line:10.00% 
+00:01:05.000 --> 00:01:10.000 vertical:rl position:50.00%,middle size:80.00% line:10.00% 
 <c.bg_transparent><c.Japanese>〈パンがうまい〉</c.Japanese></c.bg_transparent>
 
 14
-00:17:14.166 --> 00:17:15.083 vertical:rl position:50.00%,middle size:80.00% line:10.00% 
-<c.bg_transparent><c.Japanese>〈そうか？〉</c.Japanese></c.bg_transparent>
-
-15
-00:17:16.958 --> 00:17:18.625 vertical:rl position:50.00%,middle size:80.00% line:10.00% 
-<c.bg_transparent><c.Japanese>〈アイルランド人が〉</c.Japanese></c.bg_transparent>
-
-16
-00:17:18.750 --> 00:17:20.958 vertical:rl position:50.00%,middle size:80.00% line:10.00% 
+00:01:10.000 --> 00:01:15.000 vertical:rl position:50.00%,middle size:80.00% line:10.00% 
 <c.bg_transparent><c.Japanese>〈どこで</c.Japanese></c.bg_transparent>
 <c.bg_transparent><c.Japanese>イタリア語を学んだ〉</c.Japanese></c.bg_transparent>
 
-17
-00:17:36.833 --> 00:17:38.500 vertical:rl position:50.00%,middle size:80.00% line:10.00% 
+15
+00:01:15.000 --> 00:01:20.000 vertical:rl position:50.00%,middle size:80.00% line:10.00% 
 <c.bg_transparent><c.Japanese>〈アクセントが</c.Japanese></c.bg_transparent><c.bg_transparent><c.Japanese>―</c.Japanese></c.bg_transparent><c.bg_transparent><c.Japanese>〉</c.Japanese></c.bg_transparent>
 
-18
-00:17:38.625 --> 00:17:40.916 vertical:rl position:50.00%,middle size:80.00% line:10.00% 
-<c.bg_transparent><c.Japanese>〈カターニア風だと</c.Japanese></c.bg_transparent>
-<c.bg_transparent><c.Japanese>思った〉</c.Japanese></c.bg_transparent>
-
-19
-00:17:48.250 --> 00:17:51.125 vertical:rl position:50.00%,middle size:80.00% line:10.00% 
+16
+00:01:20.000 --> 00:01:25.000 vertical:rl position:50.00%,middle size:80.00% line:10.00% 
 <c.bg_transparent><c.Japanese>〈戦ったのは</c.Japanese></c.bg_transparent>
 <c.bg_transparent><c.Japanese>４１１日間で〉</c.Japanese></c.bg_transparent>
 
-20
-00:17:52.166 --> 00:17:54.083 vertical:rl position:50.00%,middle size:80.00% line:10.00% 
-<c.bg_transparent><c.Japanese>〈アンツィオに</c.Japanese></c.bg_transparent>
-<c.bg_transparent><c.Japanese>１２２日いた〉</c.Japanese></c.bg_transparent>
-
-21
-00:20:11.416 --> 00:20:13.791 vertical:rl position:50.00%,middle size:80.00% line:10.00% 
-<c.bg_transparent><c.Japanese>彼らはイタリア版の</c.Japanese></c.bg_transparent><c.bg_transparent><c.Japanese>―</c.Japanese></c.bg_transparent>
-
-22
-00:20:11.416 --> 00:20:13.791 vertical:rl position:50.00%,middle size:80.00% line:90.00% 
+17
+00:01:25.000 --> 00:01:30.000 vertical:rl position:50.00%,middle size:80.00% line:90.00% 
 <c.bg_transparent><c.Japanese>シアンドラス家</c.Japanese></c.bg_transparent>
 
-23
-00:20:13.916 --> 00:20:17.000 position:50.00%,middle align:middle size:80.00% line:84.67% 
-<c.bg_transparent><c.Japanese>&lrm;メイフラワー号の乗客だ</c.Japanese></c.bg_transparent>
-
-24
-00:20:44.541 --> 00:20:47.416 position:50.00%,middle align:middle size:80.00% line:84.67% 
-<c.bg_transparent><c.Japanese>&lrm;２階でシャワーを浴びたら？</c.Japanese></c.bg_transparent>
-
-25
-00:30:38.625 --> 00:30:39.083 position:50.00%,middle align:middle size:80.00% line:79.33% 
-<c.bg_transparent><c.Japanese>&lrm;デラウェアの新会社が</c.Japanese></c.bg_transparent>
-<c.bg_transparent><c.Japanese>&lrm;うちを潰そうとしてる</c.Japanese></c.bg_transparent>
-
-26
-00:30:38.625 --> 00:30:39.083 vertical:rl position:50.00%,middle align:middle size:80.00% line:90.00% 
+18
+00:01:30.000 --> 00:01:35.000 vertical:rl position:50.00%,middle size:80.00% line:90.00% 
 <c.bg_transparent><c.Japanese>〝キャデラック･</c.Japanese></c.bg_transparent>
 <c.bg_transparent><c.Japanese>クリーニング 〞</c.Japanese></c.bg_transparent>
 
-27
-00:30:39.083 --> 00:30:39.208 vertical:rl position:50.00%,middle size:80.00% line:90.00% 
-<c.bg_transparent><c.Japanese>〝キャデラック･</c.Japanese></c.bg_transparent>
-<c.bg_transparent><c.Japanese>クリーニング 〞</c.Japanese></c.bg_transparent>
-
-28
-00:30:39.208 --> 00:30:40.875 vertical:rl position:50.00%,middle size:80.00% line:90.00% 
-<c.bg_transparent><c.Japanese>〝キャデラック･</c.Japanese></c.bg_transparent>
-<c.bg_transparent><c.Japanese>クリーニング 〞</c.Japanese></c.bg_transparent>
-
-29
-00:30:39.208 --> 00:30:40.875 position:50.00%,middle align:middle size:80.00% line:79.33% 
-<c.bg_transparent><c.Japanese>&lrm;値段を下げ</c.Japanese></c.bg_transparent>
-<c.bg_transparent><c.Japanese>&lrm;うちの運転手を脅し</c.Japanese></c.bg_transparent><c.bg_transparent><c.Japanese>&lrm;―</c.Japanese></c.bg_transparent>
-
-30
-00:36:14.416 --> 00:36:15.541 position:50.00%,middle align:middle size:80.00% line:84.67% 
+19
+00:01:35.000 --> 00:01:40.000 position:50.00%,middle align:middle size:80.00% line:74.00% 
 <c.bg_transparent><c.Japanese>&lrm;俺も</c.Japanese></c.bg_transparent><c.bg_transparent><c.Japanese>&lrm;だ</c.Japanese></c.bg_transparent>
-
-31
-00:36:16.000 --> 00:36:16.916 position:50.00%,middle align:middle size:80.00% line:84.67% 
-<c.bg_transparent><c.Japanese>&lrm;誰かな？</c.Japanese></c.bg_transparent>
-
-32
-00:36:17.166 --> 00:36:22.958 position:50.00%,middle align:middle size:80.00% line:79.33% 
 <c.bg_transparent><c.Japanese>&lrm;俺も出資してるんだ</c.Japanese></c.bg_transparent>
 <c.bg_transparent><c.Japanese>&lrm;“</c.Japanese></c.bg_transparent><c.bg_transparent><c.Japanese>&lrm;俺も</c.Japanese></c.bg_transparent><c.bg_transparent><c.Japanese>&lrm;知らない”じゃない</c.Japanese></c.bg_transparent>
 
-33
-00:47:18.500 --> 00:47:22.333 position:50.00%,middle align:middle size:80.00% line:79.33% 
-<c.bg_transparent><c.Japanese>&lrm;50年代 彼の人気は
-エルヴィスに迫り<c.bg_transparent><c.Japanese>―</c.Japanese></c.bg_transparent></c.Japanese></c.bg_transparent>
-
-34
-00:47:22.500 --> 00:47:25.333 position:50.00%,middle align:middle size:80.00% line:84.67% 
-<c.bg_transparent><c.Japanese>&lrm;60年代はビートルズに匹敵</c.Japanese></c.bg_transparent>
-
-35
-01:02:38.416 --> 01:02:40.958 position:50.00%,middle align:middle size:80.00% line:84.67% 
-<c.bg_transparent><c.Japanese>&lrm;彼は“ジミー捕獲班”を作り</c.Japanese></c.bg_transparent>
-
-36
-01:02:41.083 --> 01:02:44.625 position:50.00%,middle align:middle size:80.00% line:79.33% 
-<c.bg_transparent><c.Japanese>&lrm;ＦＢＩとＩＲＳを
-24時間 働かせた</c.Japanese></c.bg_transparent>
-
-37
-01:05:43.208 --> 01:05:47.416 position:50.00%,middle align:middle size:80.00% line:84.67% 
+20
+00:01:40.000 --> 00:01:45.000 position:50.00%,middle align:middle size:80.00% line:84.67% 
 <c.bg_transparent><c.Japanese><ruby>&lrm;<c.bg_transparent><c.Japanese>不憫</c.Japanese></c.bg_transparent><c.bg_transparent><c.Japanese><rt>ふびん</rt></c.Japanese></c.bg_transparent></ruby></c.Japanese></c.bg_transparent><c.bg_transparent><c.Japanese>&lrm;で助けてやりたくなる</c.Japanese></c.bg_transparent>
 
-38
-01:22:42.708 --> 01:22:45.291 position:50.00%,middle align:middle size:80.00% line:84.67% 
+21
+00:01:45.000 --> 00:01:50.000 position:50.00%,middle align:middle size:80.00% line:84.67% 
 <c.bg_transparent><c.Japanese><ruby>&lrm;<c.bg_transparent><c.Japanese>苛立</c.Japanese></c.bg_transparent><c.bg_transparent><c.Japanese><rt>いらだ</rt></c.Japanese></c.bg_transparent></ruby></c.Japanese></c.bg_transparent><c.bg_transparent><c.Japanese>&lrm;ちとしか思えない</c.Japanese></c.bg_transparent>
 
-39
-01:31:16.875 --> 01:31:20.083 position:50.00%,middle align:middle size:80.00% line:79.33% 
-<c.bg_transparent><c.Japanese>&lrm;プロセスを</c.Japanese></c.bg_transparent>
-<c.bg_transparent><c.Japanese>&lrm;汚そうとした行為で</c.Japanese></c.bg_transparent>
-
-40
-01:31:21.250 --> 01:31:23.541 position:50.00%,middle align:middle size:80.00% line:84.67% 
-<c.bg_transparent><c.Japanese>&lrm;あなたに正義の</c.Japanese></c.bg_transparent><c.bg_transparent><c.Japanese><ruby>&lrm;<c.bg_transparent><c.Japanese>鉄槌</c.Japanese></c.bg_transparent><c.bg_transparent><c.Japanese><rt>てっつい</rt></c.Japanese></c.bg_transparent></ruby></c.Japanese></c.bg_transparent><c.bg_transparent><c.Japanese>&lrm;が下る</c.Japanese></c.bg_transparent>
-
-41
-01:57:51.250 --> 01:57:53.708 vertical:rl position:50.00%,middle size:80.00% line:10.00% 
+22
+00:01:50.000 --> 00:01:55.000 vertical:rl position:50.00%,middle size:80.00% line:10.00% 
 <c.bg_transparent><c.Japanese>アンソニー･〝ファット･</c.Japanese></c.bg_transparent>
 <c.bg_transparent><c.Japanese>トニー 〞･サレルノ</c.Japanese></c.bg_transparent>
 
-42
-01:57:53.833 --> 01:57:56.375 vertical:rl position:50.00%,middle size:80.00% line:10.00% 
+23
+00:01:55.000 --> 00:02:00.000 vertical:rl position:50.00%,middle size:80.00% line:10.00% 
 <c.bg_transparent><c.Japanese>懲役１００年</c.Japanese></c.bg_transparent>
 <c.bg_transparent><c.Japanese>80</c.Japanese></c.bg_transparent><c.bg_transparent><c.Japanese>歳で獄死</c.Japanese></c.bg_transparent>
 <c.bg_transparent><c.Japanese>１９９２年</c.Japanese></c.bg_transparent>
-
-43
-01:57:56.541 --> 01:58:00.166 position:50.00%,middle align:middle size:80.00% line:79.33% 
-<c.bg_transparent><c.Japanese>&lrm;プロは</c.Japanese></c.bg_transparent><c.bg_transparent><c.Japanese><ruby>&lrm;<c.bg_transparent><c.Japanese>雑魚</c.Japanese></c.bg_transparent><c.bg_transparent><c.Japanese><rt>ざこ</rt></c.Japanese></c.bg_transparent></ruby></c.Japanese></c.bg_transparent><c.bg_transparent><c.Japanese>&lrm;じゃない</c.Japanese></c.bg_transparent>
-<c.bg_transparent><c.Japanese>&lrm;ジミーも礼儀を</c.Japanese></c.bg_transparent>
 
