@@ -2,10 +2,10 @@
 
 NOTE Netflix
 NOTE Profile: webvtt-lssdh-ios13
-NOTE Date: 2020/01/10 11:33:00
+NOTE Date: 2020/01/10 12:21:22
 
 NOTE SegmentIndex
-NOTE Segment=102.000 31671@204 125
+NOTE Segment=102.000 31597@204 125
 NOTE /SegmentIndex
 
                                        
@@ -16,7 +16,7 @@ NOTE /SegmentIndex
 <c.japanese><c.bg_white>NETFLIX Japanese Timed Text Style Guide Examples</c.bg_white></c.japanese>
 
 2
-00:00:10.000 --> 00:00:12.000 position:50.00%,middle align:start size:80.00% line:79.33%,start 
+00:00:10.000 --> 00:00:12.000 position:50.00%,middle align:start size:80.00% line:90.00%,end 
 <c.japanese><c.bg_white>NETFLIXタイムテキストスタイルガイド
 用例</c.bg_white></c.japanese>
 
@@ -26,7 +26,7 @@ NOTE /SegmentIndex
 horizontal</c.bg_white></c.japanese>
 
 4
-00:00:13.000 --> 00:00:14.000 position:50.00%,middle align:start size:80.00% line:84.67%,start 
+00:00:13.000 --> 00:00:14.000 position:50.00%,middle align:start size:80.00% line:90.00%,end 
 <c.japanese><c.bg_white>ＢＢＣ ＣＩＡ ＵＳＡ</c.bg_white></c.japanese>
 
 5
@@ -53,7 +53,7 @@ vertical</c.bg_white></c.japanese>
 horizontal</c.bg_white></c.japanese>
 
 10
-00:00:19.000 --> 00:00:21.000 position:50.00%,middle align:start size:80.00% line:79.33%,start 
+00:00:19.000 --> 00:00:21.000 position:50.00%,middle align:start size:80.00% line:90.00%,end 
 <c.japanese><c.bg_white>強</c.bg_white></c.japanese><c.japanese><c.bg_white> </c.bg_white></c.japanese><c.japanese><c.bg_white>調</c.bg_white></c.japanese><c.japanese><c.bg_white> </c.bg_white></c.japanese><c.japanese><c.bg_white>し</c.bg_white></c.japanese><c.japanese><c.bg_white> </c.bg_white></c.japanese><c.japanese><c.bg_white>た</c.bg_white></c.japanese><c.japanese><c.bg_white> </c.bg_white></c.japanese><c.japanese><c.bg_white>い</c.bg_white></c.japanese><c.japanese><c.bg_white> </c.bg_white></c.japanese><c.japanese><c.bg_white>時</c.bg_white></c.japanese><c.japanese><c.bg_white> </c.bg_white></c.japanese><c.japanese><c.bg_white>に</c.bg_white></c.japanese><c.japanese><c.bg_white> </c.bg_white></c.japanese><c.japanese><c.bg_white>使</c.bg_white></c.japanese><c.japanese><c.bg_white> </c.bg_white></c.japanese><c.japanese><c.bg_white>う</c.bg_white></c.japanese>
 <c.japanese><c.bg_white>強</c.bg_white></c.japanese><c.japanese><c.bg_white> </c.bg_white></c.japanese><c.japanese><c.bg_white>調</c.bg_white></c.japanese><c.japanese><c.bg_white> </c.bg_white></c.japanese><c.japanese><c.bg_white>し</c.bg_white></c.japanese><c.japanese><c.bg_white> </c.bg_white></c.japanese><c.japanese><c.bg_white>た</c.bg_white></c.japanese><c.japanese><c.bg_white> </c.bg_white></c.japanese><c.japanese><c.bg_white>い</c.bg_white></c.japanese><c.japanese><c.bg_white> </c.bg_white></c.japanese><c.japanese><c.bg_white>時</c.bg_white></c.japanese><c.japanese><c.bg_white> </c.bg_white></c.japanese><c.japanese><c.bg_white>に</c.bg_white></c.japanese><c.japanese><c.bg_white> </c.bg_white></c.japanese><c.japanese><c.bg_white>使</c.bg_white></c.japanese><c.japanese><c.bg_white> </c.bg_white></c.japanese><c.japanese><c.bg_white>う</c.bg_white></c.japanese>
 
@@ -73,7 +73,7 @@ vertical, right</c.bg_white></c.japanese>
 vertical, left</c.bg_white></c.japanese>
 
 14
-00:00:23.000 --> 00:00:25.000 vertical:rl position:50.00%,middle align:start size:80.00% line:79.33%,start 
+00:00:23.000 --> 00:00:25.000 vertical:rl position:50.00%,middle align:start size:80.00% line:90.00%,end 
 <c.japanese><c.bg_white>強</c.bg_white></c.japanese><c.japanese><c.bg_white> </c.bg_white></c.japanese><c.japanese><c.bg_white>調</c.bg_white></c.japanese><c.japanese><c.bg_white> </c.bg_white></c.japanese><c.japanese><c.bg_white>し</c.bg_white></c.japanese><c.japanese><c.bg_white> </c.bg_white></c.japanese><c.japanese><c.bg_white>た</c.bg_white></c.japanese><c.japanese><c.bg_white> </c.bg_white></c.japanese><c.japanese><c.bg_white>い</c.bg_white></c.japanese><c.japanese><c.bg_white> </c.bg_white></c.japanese><c.japanese><c.bg_white>時</c.bg_white></c.japanese><c.japanese><c.bg_white> </c.bg_white></c.japanese><c.japanese><c.bg_white>に</c.bg_white></c.japanese><c.japanese><c.bg_white> </c.bg_white></c.japanese><c.japanese><c.bg_white>使</c.bg_white></c.japanese><c.japanese><c.bg_white> </c.bg_white></c.japanese><c.japanese><c.bg_white>う</c.bg_white></c.japanese>
 <c.japanese><c.bg_white>強</c.bg_white></c.japanese><c.japanese><c.bg_white> </c.bg_white></c.japanese><c.japanese><c.bg_white>調</c.bg_white></c.japanese><c.japanese><c.bg_white> </c.bg_white></c.japanese><c.japanese><c.bg_white>し</c.bg_white></c.japanese><c.japanese><c.bg_white> </c.bg_white></c.japanese><c.japanese><c.bg_white>た</c.bg_white></c.japanese><c.japanese><c.bg_white> </c.bg_white></c.japanese><c.japanese><c.bg_white>い</c.bg_white></c.japanese><c.japanese><c.bg_white> </c.bg_white></c.japanese><c.japanese><c.bg_white>時</c.bg_white></c.japanese><c.japanese><c.bg_white> </c.bg_white></c.japanese><c.japanese><c.bg_white>に</c.bg_white></c.japanese><c.japanese><c.bg_white> </c.bg_white></c.japanese><c.japanese><c.bg_white>使</c.bg_white></c.japanese><c.japanese><c.bg_white> </c.bg_white></c.japanese><c.japanese><c.bg_white>う</c.bg_white></c.japanese>
 
@@ -83,7 +83,7 @@ vertical, left</c.bg_white></c.japanese>
 horizontal, 13 full-width characters</c.bg_white></c.japanese>
 
 16
-00:00:26.000 --> 00:00:27.000 position:50.00%,middle align:start size:80.00% line:84.67%,start 
+00:00:26.000 --> 00:00:27.000 position:50.00%,middle align:start size:80.00% line:90.00%,end 
 <c.japanese><c.bg_white>これが横の全角文字制限です</c.bg_white></c.japanese>
 
 17
@@ -101,7 +101,7 @@ vertical, 11 full-width characters</c.bg_white></c.japanese>
 horizontal, pause</c.bg_white></c.japanese>
 
 20
-00:00:29.000 --> 00:00:30.000 position:50.00%,middle align:start size:80.00% line:84.67%,start 
+00:00:29.000 --> 00:00:30.000 position:50.00%,middle align:start size:80.00% line:90.00%,end 
 <c.japanese><c.bg_white> </c.bg_white></c.japanese><c.japanese><c.bg_white>そんなバカな…</c.bg_white></c.japanese>
 
 21
@@ -119,7 +119,7 @@ vertical, pause</c.bg_white></c.japanese>
 horizontal, long vowel</c.bg_white></c.japanese>
 
 24
-00:00:31.000 --> 00:00:32.000 position:50.00%,middle align:start size:80.00% line:84.67%,start 
+00:00:31.000 --> 00:00:32.000 position:50.00%,middle align:start size:80.00% line:90.00%,end 
 <c.japanese><c.bg_white> </c.bg_white></c.japanese><c.japanese><c.bg_white>コーヒーメーカー</c.bg_white></c.japanese>
 
 25
@@ -137,7 +137,7 @@ vertical, long vowel</c.bg_white></c.japanese>
 horizontal, two-em dash</c.bg_white></c.japanese>
 
 28
-00:00:33.000 --> 00:00:34.000 position:50.00%,middle align:start size:80.00% line:84.67%,start 
+00:00:33.000 --> 00:00:34.000 position:50.00%,middle align:start size:80.00% line:90.00%,end 
 <c.japanese><c.bg_white> </c.bg_white></c.japanese><c.japanese><c.bg_white>初めて見たとき⸺</c.bg_white></c.japanese>
 
 29
@@ -146,7 +146,7 @@ horizontal, two-em dash</c.bg_white></c.japanese>
 horizontal, two-em dash</c.bg_white></c.japanese>
 
 30
-00:00:34.000 --> 00:00:35.000 position:50.00%,middle align:start size:80.00% line:84.67%,start 
+00:00:34.000 --> 00:00:35.000 position:50.00%,middle align:start size:80.00% line:90.00%,end 
 <c.japanese><c.bg_white> </c.bg_white></c.japanese><c.japanese><c.bg_white>感動したよ</c.bg_white></c.japanese>
 
 31
@@ -176,7 +176,7 @@ vertical, two-em dash</c.bg_white></c.japanese>
 <c.japanese><c.bg_white>I.9. Duration</c.bg_white></c.japanese>
 
 37
-00:00:38.500 --> 00:00:39.000 position:50.00%,middle align:start size:80.00% line:84.67%,start 
+00:00:38.500 --> 00:00:39.000 position:50.00%,middle align:start size:80.00% line:90.00%,end 
 <c.japanese><c.bg_white> </c.bg_white></c.japanese><c.japanese><c.bg_white>字幕の最短表示時間（500ミリ秒）</c.bg_white></c.japanese>
 
 38
@@ -198,7 +198,7 @@ vertical, two-em dash</c.bg_white></c.japanese>
 horizontal</c.bg_white></c.japanese>
 
 42
-00:00:41.000 --> 00:00:41.500 position:50.00%,middle align:start size:80.00% line:84.67%,start 
+00:00:41.000 --> 00:00:41.500 position:50.00%,middle align:start size:80.00% line:90.00%,end 
 <c.japanese><c.bg_white> </c.bg_white></c.japanese><c.japanese><c.bg_white>長い横字幕</c.bg_white></c.japanese>
 
 43
@@ -207,7 +207,7 @@ horizontal</c.bg_white></c.japanese>
 horizontal</c.bg_white></c.japanese>
 
 44
-00:00:41.500 --> 00:00:42.500 position:50.00%,middle align:start size:80.00% line:84.67%,start 
+00:00:41.500 --> 00:00:42.500 position:50.00%,middle align:start size:80.00% line:90.00%,end 
 <c.japanese><c.bg_white> </c.bg_white></c.japanese><c.japanese><c.bg_white>長い横字幕</c.bg_white></c.japanese>
 
 45
@@ -220,7 +220,7 @@ horizontal</c.bg_white></c.japanese>
 horizontal</c.bg_white></c.japanese>
 
 47
-00:00:42.500 --> 00:00:43.000 position:50.00%,middle align:start size:80.00% line:84.67%,start 
+00:00:42.500 --> 00:00:43.000 position:50.00%,middle align:start size:80.00% line:90.00%,end 
 <c.japanese><c.bg_white> </c.bg_white></c.japanese><c.japanese><c.bg_white>長い横字幕</c.bg_white></c.japanese>
 
 48
@@ -242,7 +242,7 @@ vertical</c.bg_white></c.japanese>
 <c.japanese><c.bg_white> </c.bg_white></c.japanese><c.japanese><c.bg_white>長い縦字幕</c.bg_white></c.japanese>
 
 52
-00:00:43.500 --> 00:00:44.000 vertical:rl position:50.00%,middle align:start size:80.00% line:84.67%,start 
+00:00:43.500 --> 00:00:44.000 vertical:rl position:50.00%,middle align:start size:80.00% line:90.00%,end 
 <c.japanese><c.bg_white> </c.bg_white></c.japanese><c.japanese><c.bg_white>強制字幕</c.bg_white></c.japanese>
 
 53
@@ -260,7 +260,7 @@ vertical</c.bg_white></c.japanese>
 horizontal</c.bg_white></c.japanese>
 
 56
-00:00:46.000 --> 00:00:47.000 position:50.00%,middle align:start size:80.00% line:84.67%,start 
+00:00:46.000 --> 00:00:47.000 position:50.00%,middle align:start size:80.00% line:90.00%,end 
 <c.japanese><c.bg_white> </c.bg_white></c.japanese><c.japanese><c.bg_white>〈T外国語のセリフ〉</c.bg_white></c.japanese>
 
 57
@@ -278,7 +278,7 @@ vertical</c.bg_white></c.japanese>
 horizontal, nakaguro</c.bg_white></c.japanese>
 
 60
-00:00:48.000 --> 00:00:49.000 position:50.00%,middle align:start size:80.00% line:84.67%,start 
+00:00:48.000 --> 00:00:49.000 position:50.00%,middle align:start size:80.00% line:90.00%,end 
 <c.japanese><c.bg_white> </c.bg_white></c.japanese><c.japanese><c.bg_white>ビル･ゲイツ</c.bg_white></c.japanese>
 
 61
@@ -296,7 +296,7 @@ vertical, nakaguro</c.bg_white></c.japanese>
 horizontal</c.bg_white></c.japanese>
 
 64
-00:00:51.000 --> 00:00:52.000 position:50.00%,middle align:start size:80.00% line:84.67%,start 
+00:00:51.000 --> 00:00:52.000 position:50.00%,middle align:start size:80.00% line:90.00%,end 
 <c.japanese><c.bg_white>イタリック</c.bg_white></c.japanese>
 
 65
@@ -314,7 +314,7 @@ vertical</c.bg_white></c.japanese>
 horizontal</c.bg_white></c.japanese>
 
 68
-00:00:54.000 --> 00:00:55.000 position:50.00%,middle align:start size:80.00% line:79.33%,start 
+00:00:54.000 --> 00:00:55.000 position:50.00%,middle align:start size:80.00% line:90.00%,end 
 <c.japanese><c.bg_white>２行の</c.bg_white></c.japanese>
 <c.japanese><c.bg_white>字幕</c.bg_white></c.japanese>
 
@@ -329,7 +329,7 @@ vertical</c.bg_white></c.japanese>
 <c.japanese><c.bg_white>字幕</c.bg_white></c.japanese>
 
 71
-00:00:55.000 --> 00:00:57.000 vertical:rl position:50.00%,middle align:start size:80.00% line:74.00%,start 
+00:00:55.000 --> 00:00:57.000 vertical:rl position:50.00%,middle align:start size:80.00% line:90.00%,end 
 <c.japanese><c.bg_white> </c.bg_white></c.japanese><c.japanese><c.bg_white>３行の</c.bg_white></c.japanese>
 <c.japanese><c.bg_white>強制</c.bg_white></c.japanese>
 <c.japanese><c.bg_white>字幕</c.bg_white></c.japanese>
@@ -340,7 +340,7 @@ vertical</c.bg_white></c.japanese>
 horizontal</c.bg_white></c.japanese>
 
 73
-00:00:58.000 --> 00:00:59.000 position:50.00%,middle align:start size:80.00% line:79.33%,start 
+00:00:58.000 --> 00:00:59.000 position:50.00%,middle align:start size:80.00% line:90.00%,end 
 <c.japanese><c.bg_white> </c.bg_white></c.japanese><c.japanese><c.bg_white>全角一桁の数字　１</c.bg_white></c.japanese>
 <c.japanese><c.bg_white> </c.bg_white></c.japanese><c.japanese><c.bg_white>半角複数桁の数字　12、345</c.bg_white></c.japanese>
 
@@ -361,7 +361,7 @@ vertical</c.bg_white></c.japanese>
 horizontal, decimal and large numbers</c.bg_white></c.japanese>
 
 77
-00:01:00.000 --> 00:01:01.000 position:50.00%,middle align:start size:80.00% line:79.33%,start 
+00:01:00.000 --> 00:01:01.000 position:50.00%,middle align:start size:80.00% line:90.00%,end 
 <c.japanese><c.bg_white> </c.bg_white></c.japanese><c.japanese><c.bg_white>小数点　１.５</c.bg_white></c.japanese>
 <c.japanese><c.bg_white> </c.bg_white></c.japanese><c.japanese><c.bg_white>桁の大きい数字　1500、１万2345</c.bg_white></c.japanese>
 
@@ -381,7 +381,7 @@ vertical, decimal and large numbers</c.bg_white></c.japanese>
 horizontal, currency</c.bg_white></c.japanese>
 
 81
-00:01:02.000 --> 00:01:03.000 position:50.00%,middle align:start size:80.00% line:84.67%,start 
+00:01:02.000 --> 00:01:03.000 position:50.00%,middle align:start size:80.00% line:90.00%,end 
 <c.japanese><c.bg_white>通貨　10ドル　5ユーロ</c.bg_white></c.japanese>
 
 82
@@ -399,7 +399,7 @@ vertical, currency</c.bg_white></c.japanese>
 horizontal</c.bg_white></c.japanese>
 
 85
-00:01:05.000 --> 00:01:06.000 position:50.00%,middle align:start size:80.00% line:84.67%,start 
+00:01:05.000 --> 00:01:06.000 position:50.00%,middle align:start size:80.00% line:90.00%,end 
 <c.japanese><c.bg_white>まさか？ そんな！</c.bg_white></c.japanese>
 
 86
@@ -417,7 +417,7 @@ vertical</c.bg_white></c.japanese>
 horizontal, exceptional use of comma</c.bg_white></c.japanese>
 
 89
-00:01:07.000 --> 00:01:08.000 position:50.00%,middle align:start size:80.00% line:79.33%,start 
+00:01:07.000 --> 00:01:08.000 position:50.00%,middle align:start size:80.00% line:90.00%,end 
 <c.japanese><c.bg_white> </c.bg_white></c.japanese><c.japanese><c.bg_white>タイトルに句読点を含む例外</c.bg_white></c.japanese>
 <c.japanese><c.bg_white>「 食べて、祈って、恋をして」</c.bg_white></c.japanese>
 
@@ -436,7 +436,7 @@ vertical, exceptional use of comma</c.bg_white></c.japanese>
 horizontal</c.bg_white></c.japanese>
 
 93
-00:01:10.000 --> 00:01:11.000 position:50.00%,middle align:start size:80.00% line:84.67%,start 
+00:01:10.000 --> 00:01:11.000 position:50.00%,middle align:start size:80.00% line:90.00%,end 
 <c.japanese><c.bg_white>これは“開かずの扉”だって</c.bg_white></c.japanese>
 
 94
@@ -463,7 +463,7 @@ vertical, multiple events</c.bg_white></c.japanese>
 horizontal</c.bg_white></c.japanese>
 
 99
-00:01:14.000 --> 00:01:16.000 position:50.00%,middle align:start size:80.00% line:79.33%,start 
+00:01:14.000 --> 00:01:16.000 position:50.00%,middle align:start size:80.00% line:90.00%,end 
 <c.japanese><c.bg_white><ruby>太孫<rt>たいそん</rt></ruby>のペクチョンを連れ</c.bg_white></c.japanese>
 <c.japanese><c.bg_white><ruby>北漢<rt>プッカン</rt></ruby>山に登り</c.bg_white></c.japanese>
 
@@ -483,7 +483,7 @@ vertical, right</c.bg_white></c.japanese>
 vertical, left</c.bg_white></c.japanese>
 
 103
-00:01:18.000 --> 00:01:20.000 vertical:rl position:50.00%,middle align:start size:80.00% line:79.33%,start 
+00:01:18.000 --> 00:01:20.000 vertical:rl position:50.00%,middle align:start size:80.00% line:90.00%,end 
 <c.japanese><c.bg_white><ruby>太孫<rt>たいそん</rt></ruby>のペクチョンを連れ</c.bg_white></c.japanese>
 <c.japanese><c.bg_white><ruby>北漢<rt>プッカン</rt></ruby>山に登り</c.bg_white></c.japanese>
 
@@ -492,7 +492,7 @@ vertical, left</c.bg_white></c.japanese>
 <c.japanese><c.bg_white>I.21. Songs</c.bg_white></c.japanese>
 
 105
-00:01:21.000 --> 00:01:23.000 position:50.00%,middle align:start size:80.00% line:79.33%,start 
+00:01:21.000 --> 00:01:23.000 position:50.00%,middle align:start size:80.00% line:90.00%,end 
 <c.japanese><c.bg_white>あきらめない</c.bg_white></c.japanese>
 <c.japanese><c.bg_white>　　　明日の太陽</c.bg_white></c.japanese>
 
@@ -501,7 +501,7 @@ vertical, left</c.bg_white></c.japanese>
 <c.japanese><c.bg_white>II.4. Alignment</c.bg_white></c.japanese>
 
 107
-00:01:24.000 --> 00:01:26.000 position:50.00%,middle align:middle size:80.00% line:79.33%,start 
+00:01:24.000 --> 00:01:26.000 position:50.00%,middle align:middle size:80.00% line:90.00%,end 
 <c.japanese><c.bg_white>昨日は昨日 今日は今日でしょ</c.bg_white></c.japanese>
 <c.japanese><c.bg_white>（電話の着信音）</c.bg_white></c.japanese>
 
@@ -510,7 +510,7 @@ vertical, left</c.bg_white></c.japanese>
 <c.japanese><c.bg_white>II.9. Dual Speakers</c.bg_white></c.japanese>
 
 109
-00:01:27.000 --> 00:01:29.000 position:50.00%,middle align:start size:80.00% line:79.33%,start 
+00:01:27.000 --> 00:01:29.000 position:50.00%,middle align:start size:80.00% line:90.00%,end 
 <c.japanese><c.bg_white>（みのり）はじめまして</c.bg_white></c.japanese>
 <c.japanese><c.bg_white>（アルマン）よろしくお願いします</c.bg_white></c.japanese>
 
@@ -519,7 +519,7 @@ vertical, left</c.bg_white></c.japanese>
 <c.japanese><c.bg_white>II.20. Songs</c.bg_white></c.japanese>
 
 111
-00:01:30.000 --> 00:01:31.000 position:50.00%,middle align:start size:80.00% line:84.67%,start 
+00:01:30.000 --> 00:01:31.000 position:50.00%,middle align:start size:80.00% line:90.00%,end 
 <c.japanese><c.bg_white>♪～</c.bg_white></c.japanese>
 
 112
@@ -527,7 +527,7 @@ vertical, left</c.bg_white></c.japanese>
 <c.japanese><c.bg_white>II.20. Songs</c.bg_white></c.japanese>
 
 113
-00:01:31.000 --> 00:01:32.000 position:50.00%,middle align:start size:80.00% line:79.33%,start 
+00:01:31.000 --> 00:01:32.000 position:50.00%,middle align:start size:80.00% line:90.00%,end 
 <c.japanese><c.bg_white>あきらめない</c.bg_white></c.japanese>
 <c.japanese><c.bg_white>　　　明日の太陽</c.bg_white></c.japanese>
 
@@ -536,7 +536,7 @@ vertical, left</c.bg_white></c.japanese>
 <c.japanese><c.bg_white>II.20. Songs</c.bg_white></c.japanese>
 
 115
-00:01:32.000 --> 00:01:33.000 position:50.00%,middle align:start size:80.00% line:84.67%,start 
+00:01:32.000 --> 00:01:33.000 position:50.00%,middle align:start size:80.00% line:90.00%,end 
 <c.japanese><c.bg_white>～♪</c.bg_white></c.japanese>
 
 116
@@ -544,7 +544,7 @@ vertical, left</c.bg_white></c.japanese>
 <c.japanese><c.bg_white>II.21. Speaker ID / Sound Effects</c.bg_white></c.japanese>
 
 117
-00:01:34.000 --> 00:01:36.000 position:50.00%,middle align:middle size:80.00% line:79.33%,start 
+00:01:34.000 --> 00:01:36.000 position:50.00%,middle align:middle size:80.00% line:90.00%,end 
 <c.japanese><c.bg_white>（電話の着信音）</c.bg_white></c.japanese>
 <c.japanese><c.bg_white>昨日は昨日 今日は今日でしょ</c.bg_white></c.japanese>
 
@@ -553,7 +553,7 @@ vertical, left</c.bg_white></c.japanese>
 <c.japanese><c.bg_white>II.21. Speaker ID / Sound Effects</c.bg_white></c.japanese>
 
 119
-00:01:36.000 --> 00:01:38.000 position:50.00%,middle align:start size:80.00% line:84.67%,start 
+00:01:36.000 --> 00:01:38.000 position:50.00%,middle align:start size:80.00% line:90.00%,end 
 <c.japanese><c.bg_white> </c.bg_white></c.japanese><c.japanese><c.bg_white>(スペイン語)お元気ですか</c.bg_white></c.japanese>
 
 120
@@ -561,7 +561,7 @@ vertical, left</c.bg_white></c.japanese>
 <c.japanese><c.bg_white>II.21. Speaker ID / Sound Effects</c.bg_white></c.japanese>
 
 121
-00:01:38.000 --> 00:01:40.000 position:50.00%,middle align:start size:80.00% line:84.67%,start 
+00:01:38.000 --> 00:01:40.000 position:50.00%,middle align:start size:80.00% line:90.00%,end 
 <c.japanese><c.bg_white> </c.bg_white></c.japanese><c.japanese><c.bg_white>(スペイン語)</c.bg_white></c.japanese>
 
 122
@@ -570,7 +570,7 @@ vertical, left</c.bg_white></c.japanese>
 horizontal</c.bg_white></c.japanese>
 
 123
-00:01:40.000 --> 00:01:41.000 position:50.00%,middle align:start size:80.00% line:84.67%,start 
+00:01:40.000 --> 00:01:41.000 position:50.00%,middle align:start size:80.00% line:90.00%,end 
 <c.japanese><c.bg_white> </c.bg_white></c.japanese><c.japanese><c.bg_white>（無音のセリフ）</c.bg_white></c.japanese>
 
 124
