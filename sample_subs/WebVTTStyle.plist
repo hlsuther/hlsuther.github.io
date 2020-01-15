@@ -13,9 +13,16 @@
 		<key>CMGenericFontFamilyName</key>
 		<string>CMGenericFontName_MonospaceSansSerif</string>
 		<key>CMBaseFontSizePercentage</key>
-		<real>4.1</real>
+		<real>6.0</real>
 		<key>CMCharacterEdgeStyle</key>
 		<string>CMCharacterEdgeStyle_Uniform</real>
+		<key>CMCharacterBackgroundColorARGB</key>
+		<array>
+			<real>0.5</real>
+			<integer>1</integer>
+			<integer>0</integer>
+			<integer>1</integer>
+		</array>
 		<key>CMTextSelector</key>
 		<string>::cue</string>
 	</dict>
@@ -807,6 +814,54 @@
 		<string>CMRubyPosition_After</string>
 		<key>CMTextSelector</key>
 		<string>.ruby_after</string>
+	</dict>
+	<dict>
+		<key>CMRubyAlignment</key>
+		<string>CMRubyRubyAlignment_Auto</string>
+		<key>CMTextSelector</key>
+		<string>.ruby_align_auto</string>
+	</dict>
+	<dict>
+		<key>CMRubyAlignment</key>
+		<string>CMRubyRubyAlignment_Start</string>
+		<key>CMTextSelector</key>
+		<string>.ruby_align_start</string>
+	</dict>
+	<dict>
+		<key>CMRubyAlignment</key>
+		<string>CMRubyRubyAlignment_End</string>
+		<key>CMTextSelector</key>
+		<string>.ruby_align_end</string>
+	</dict>
+	<dict>
+		<key>CMRubyAlignment</key>
+		<string>CMRubyRubyAlignment_Center</string>
+		<key>CMTextSelector</key>
+		<string>.ruby_align_center</string>
+	</dict>
+	<dict>
+		<key>CMRubyAlignment</key>
+		<string>CMRubyRubyAlignment_DistributeLetter</string>
+		<key>CMTextSelector</key>
+		<string>.ruby_align_space_around</string>
+	</dict>
+	<dict>
+		<key>CMRubyAlignment</key>
+		<string>CMRubyRubyAlignment_DistributeSpace</string>
+		<key>CMTextSelector</key>
+		<string>.ruby_align_space_between</string>
+	</dict>
+	<dict>
+		<key>CMRubyAlignment</key>
+		<string>CMRubyRubyAlignment_LineEdge</string>
+		<key>CMTextSelector</key>
+		<string>.ruby_align_edge</string>
+	</dict>
+	<dict>
+		<key>CMHorizontalInVerticalForms</key>
+		<integer>2</integer>
+		<key>CMTextSelector</key>
+		<string>.text_combine/string>
 	</dict>
 </array>
 </plist>
