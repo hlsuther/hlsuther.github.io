@@ -2,10 +2,10 @@
 
 NOTE Netflix
 NOTE Profile: webvtt-lssdh-ios13
-NOTE Date: 2020/01/15 11:19:26
+NOTE Date: 2020/01/15 13:35:33
 
 NOTE SegmentIndex
-NOTE Segment=102.000 20166@204 125
+NOTE Segment=102.000 30993@204 125
 NOTE /SegmentIndex
 
                                        
@@ -13,572 +13,572 @@ NOTE /SegmentIndex
 
 1
 00:00:10.000 --> 00:00:12.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-NETFLIX Japanese Timed Text Style Guide Examples
+<c.Japanese><c.bg_transparent>NETFLIX Japanese Timed Text Style Guide Examples</c></c>
 
 2
 00:00:10.000 --> 00:00:12.000 position:50.00%,middle align:start size:80.00% line:90.00%,end 
-NETFLIXタイムテキストスタイルガイド
-用例
+<c.Japanese><c.bg_transparent>NETFLIXタイムテキストスタイルガイド
+用例</c></c>
 
 3
 00:00:13.000 --> 00:00:14.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-I.2 Acronyms
-horizontal
+<c.Japanese><c.bg_transparent>I.2 Acronyms
+horizontal</c></c>
 
 4
 00:00:13.000 --> 00:00:14.000 position:50.00%,middle align:start size:80.00% line:90.00%,end 
-ＢＢＣ ＣＩＡ ＵＳＡ
+<c.Japanese><c.bg_transparent>ＢＢＣ ＣＩＡ ＵＳＡ</c></c>
 
 5
 00:00:14.000 --> 00:00:15.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-I.2 Acronyms
-vertical
+<c.Japanese><c.bg_transparent>I.2 Acronyms
+vertical</c></c>
 
 6
 00:00:14.000 --> 00:00:15.000 vertical:rl position:50.00%,middle align:start size:80.00% line:10.00%,start 
-ＢＢＣ ＣＩＡ ＵＳＡ
+<c.Japanese><c.bg_transparent>ＢＢＣ ＣＩＡ ＵＳＡ</c></c>
 
 7
 00:00:16.000 --> 00:00:18.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-I.3 Alignment
+<c.Japanese><c.bg_transparent>I.3 Alignment</c></c>
 
 8
 00:00:16.000 --> 00:00:18.000 position:50.00%,middle align:middle size:50.00% line:50.00%,start 
- 例外として強制字幕は
-どこにでも表示できます
+<c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent>例外として強制字幕は</c></c>
+<c.Japanese><c.bg_transparent>どこにでも表示できます</c></c>
 
 9
 00:00:19.000 --> 00:00:21.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-I.4 Bouten（傍点）
-horizontal
+<c.Japanese><c.bg_transparent>I.4 Bouten（傍点）
+horizontal</c></c>
 
 10
 00:00:19.000 --> 00:00:21.000 position:50.00%,middle align:start size:80.00% line:90.00%,end 
-<c.ruby_before><ruby>強<rt>•</rt></ruby><c.ruby_before> <c.ruby_after><ruby>調<rt>•</rt></ruby><c.ruby_after> <c.ruby_after><ruby>し<rt>●</rt></ruby><c.ruby_after> <c.ruby_after><ruby>た<rt>○</rt></ruby><c.ruby_after> <c.ruby_after><ruby>い<rt>◦</rt></ruby><c.ruby_after> <c.ruby_after><ruby>時<rt>﹅</rt></ruby><c.ruby_after> <c.ruby_after><ruby>に<rt>﹆</rt></ruby><c.ruby_after> <c.ruby_after><ruby>使<rt>●</rt></ruby><c.ruby_after> <c.ruby_after><ruby>う<rt>●</rt></ruby><c.ruby_after>
-<c.ruby_after><ruby>強<rt>•</rt></ruby><c.ruby_after> <c.ruby_after><ruby>調<rt>•</rt></ruby><c.ruby_after> <c.ruby_after><ruby>し<rt>●</rt></ruby><c.ruby_after> <c.ruby_after><ruby>た<rt>○</rt></ruby><c.ruby_after> <c.ruby_after><ruby>い<rt>◦</rt></ruby><c.ruby_after> <c.ruby_after><ruby>時<rt>﹅</rt></ruby><c.ruby_after> <c.ruby_after><ruby>に<rt>﹆</rt></ruby><c.ruby_after> <c.ruby_after><ruby>使<rt>●</rt></ruby><c.ruby_after> <c.ruby_after><ruby>う<rt>●</rt></ruby><c.ruby_after>
+<c.Japanese><c.bg_transparent><c.ruby_before><ruby>強<rt>•</rt></ruby><c.ruby_before></c></c><c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent><c.ruby_before><ruby>調<rt>•</rt></ruby><c.ruby_before></c></c><c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent><c.ruby_before><ruby>し<rt>●</rt></ruby><c.ruby_before></c></c><c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent><c.ruby_before><ruby>た<rt>○</rt></ruby><c.ruby_before></c></c><c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent><c.ruby_before><ruby>い<rt>◦</rt></ruby><c.ruby_before></c></c><c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent><c.ruby_before><ruby>時<rt>﹅</rt></ruby><c.ruby_before></c></c><c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent><c.ruby_before><ruby>に<rt>﹆</rt></ruby><c.ruby_before></c></c><c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent><c.ruby_before><ruby>使<rt>●</rt></ruby><c.ruby_before></c></c><c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent><c.ruby_before><ruby>う<rt>●</rt></ruby><c.ruby_before></c></c>
+<c.Japanese><c.bg_transparent><c.ruby_after><ruby>強<rt>•</rt></ruby><c.ruby_after></c></c><c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent><c.ruby_after><ruby>調<rt>•</rt></ruby><c.ruby_after></c></c><c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent><c.ruby_after><ruby>し<rt>●</rt></ruby><c.ruby_after></c></c><c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent><c.ruby_after><ruby>た<rt>○</rt></ruby><c.ruby_after></c></c><c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent><c.ruby_after><ruby>い<rt>◦</rt></ruby><c.ruby_after></c></c><c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent><c.ruby_after><ruby>時<rt>﹅</rt></ruby><c.ruby_after></c></c><c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent><c.ruby_after><ruby>に<rt>﹆</rt></ruby><c.ruby_after></c></c><c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent><c.ruby_after><ruby>使<rt>●</rt></ruby><c.ruby_after></c></c><c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent><c.ruby_after><ruby>う<rt>●</rt></ruby><c.ruby_after></c></c>
 
 11
 00:00:21.000 --> 00:00:23.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-I.4 Bouten（傍点）
-vertical, right
+<c.Japanese><c.bg_transparent>I.4 Bouten（傍点）
+vertical, right</c></c>
 
 12
 00:00:21.000 --> 00:00:23.000 vertical:rl position:50.00%,middle align:start size:80.00% line:10.00%,start 
-<c.ruby_before><ruby>強<rt>•</rt></ruby><c.ruby_before> <c.ruby_after><ruby>調<rt>•</rt></ruby><c.ruby_after> <c.ruby_after><ruby>し<rt>●</rt></ruby><c.ruby_after> <c.ruby_after><ruby>た<rt>○</rt></ruby><c.ruby_after> <c.ruby_after><ruby>い<rt>◦</rt></ruby><c.ruby_after> <c.ruby_after><ruby>時<rt>﹅</rt></ruby><c.ruby_after> <c.ruby_after><ruby>に<rt>﹆</rt></ruby><c.ruby_after> <c.ruby_after><ruby>使<rt>●</rt></ruby><c.ruby_after> <c.ruby_after><ruby>う<rt>●</rt></ruby><c.ruby_after>
-<c.ruby_after><ruby>強<rt>•</rt></ruby><c.ruby_after> <c.ruby_after><ruby>調<rt>•</rt></ruby><c.ruby_after> <c.ruby_after><ruby>し<rt>●</rt></ruby><c.ruby_after> <c.ruby_after><ruby>た<rt>○</rt></ruby><c.ruby_after> <c.ruby_after><ruby>い<rt>◦</rt></ruby><c.ruby_after> <c.ruby_after><ruby>時<rt>﹅</rt></ruby><c.ruby_after> <c.ruby_after><ruby>に<rt>﹆</rt></ruby><c.ruby_after> <c.ruby_after><ruby>使<rt>●</rt></ruby><c.ruby_after> <c.ruby_after><ruby>う<rt>●</rt></ruby><c.ruby_after>
+<c.Japanese><c.bg_transparent><c.ruby_before><ruby>強<rt>•</rt></ruby><c.ruby_before></c></c><c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent><c.ruby_before><ruby>調<rt>•</rt></ruby><c.ruby_before></c></c><c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent><c.ruby_before><ruby>し<rt>●</rt></ruby><c.ruby_before></c></c><c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent><c.ruby_before><ruby>た<rt>○</rt></ruby><c.ruby_before></c></c><c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent><c.ruby_before><ruby>い<rt>◦</rt></ruby><c.ruby_before></c></c><c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent><c.ruby_before><ruby>時<rt>﹅</rt></ruby><c.ruby_before></c></c><c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent><c.ruby_before><ruby>に<rt>﹆</rt></ruby><c.ruby_before></c></c><c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent><c.ruby_before><ruby>使<rt>●</rt></ruby><c.ruby_before></c></c><c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent><c.ruby_before><ruby>う<rt>●</rt></ruby><c.ruby_before></c></c>
+<c.Japanese><c.bg_transparent><c.ruby_after><ruby>強<rt>•</rt></ruby><c.ruby_after></c></c><c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent><c.ruby_after><ruby>調<rt>•</rt></ruby><c.ruby_after></c></c><c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent><c.ruby_after><ruby>し<rt>●</rt></ruby><c.ruby_after></c></c><c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent><c.ruby_after><ruby>た<rt>○</rt></ruby><c.ruby_after></c></c><c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent><c.ruby_after><ruby>い<rt>◦</rt></ruby><c.ruby_after></c></c><c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent><c.ruby_after><ruby>時<rt>﹅</rt></ruby><c.ruby_after></c></c><c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent><c.ruby_after><ruby>に<rt>﹆</rt></ruby><c.ruby_after></c></c><c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent><c.ruby_after><ruby>使<rt>●</rt></ruby><c.ruby_after></c></c><c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent><c.ruby_after><ruby>う<rt>●</rt></ruby><c.ruby_after></c></c>
 
 13
 00:00:23.000 --> 00:00:25.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-I.4 Bouten（傍点）
-vertical, left
+<c.Japanese><c.bg_transparent>I.4 Bouten（傍点）
+vertical, left</c></c>
 
 14
 00:00:23.000 --> 00:00:25.000 vertical:rl position:50.00%,middle align:start size:80.00% line:90.00%,end 
-<c.ruby_before><ruby>強<rt>•</rt></ruby><c.ruby_before> <c.ruby_after><ruby>調<rt>•</rt></ruby><c.ruby_after> <c.ruby_after><ruby>し<rt>●</rt></ruby><c.ruby_after> <c.ruby_after><ruby>た<rt>○</rt></ruby><c.ruby_after> <c.ruby_after><ruby>い<rt>◦</rt></ruby><c.ruby_after> <c.ruby_after><ruby>時<rt>﹅</rt></ruby><c.ruby_after> <c.ruby_after><ruby>に<rt>﹆</rt></ruby><c.ruby_after> <c.ruby_after><ruby>使<rt>●</rt></ruby><c.ruby_after> <c.ruby_after><ruby>う<rt>●</rt></ruby><c.ruby_after>
-<c.ruby_after><ruby>強<rt>•</rt></ruby><c.ruby_after> <c.ruby_after><ruby>調<rt>•</rt></ruby><c.ruby_after> <c.ruby_after><ruby>し<rt>●</rt></ruby><c.ruby_after> <c.ruby_after><ruby>た<rt>○</rt></ruby><c.ruby_after> <c.ruby_after><ruby>い<rt>◦</rt></ruby><c.ruby_after> <c.ruby_after><ruby>時<rt>﹅</rt></ruby><c.ruby_after> <c.ruby_after><ruby>に<rt>﹆</rt></ruby><c.ruby_after> <c.ruby_after><ruby>使<rt>●</rt></ruby><c.ruby_after> <c.ruby_after><ruby>う<rt>●</rt></ruby><c.ruby_after>
+<c.Japanese><c.bg_transparent><c.ruby_before><ruby>強<rt>•</rt></ruby><c.ruby_before></c></c><c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent><c.ruby_before><ruby>調<rt>•</rt></ruby><c.ruby_before></c></c><c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent><c.ruby_before><ruby>し<rt>●</rt></ruby><c.ruby_before></c></c><c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent><c.ruby_before><ruby>た<rt>○</rt></ruby><c.ruby_before></c></c><c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent><c.ruby_before><ruby>い<rt>◦</rt></ruby><c.ruby_before></c></c><c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent><c.ruby_before><ruby>時<rt>﹅</rt></ruby><c.ruby_before></c></c><c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent><c.ruby_before><ruby>に<rt>﹆</rt></ruby><c.ruby_before></c></c><c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent><c.ruby_before><ruby>使<rt>●</rt></ruby><c.ruby_before></c></c><c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent><c.ruby_before><ruby>う<rt>●</rt></ruby><c.ruby_before></c></c>
+<c.Japanese><c.bg_transparent><c.ruby_after><ruby>強<rt>•</rt></ruby><c.ruby_after></c></c><c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent><c.ruby_after><ruby>調<rt>•</rt></ruby><c.ruby_after></c></c><c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent><c.ruby_after><ruby>し<rt>●</rt></ruby><c.ruby_after></c></c><c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent><c.ruby_after><ruby>た<rt>○</rt></ruby><c.ruby_after></c></c><c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent><c.ruby_after><ruby>い<rt>◦</rt></ruby><c.ruby_after></c></c><c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent><c.ruby_after><ruby>時<rt>﹅</rt></ruby><c.ruby_after></c></c><c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent><c.ruby_after><ruby>に<rt>﹆</rt></ruby><c.ruby_after></c></c><c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent><c.ruby_after><ruby>使<rt>●</rt></ruby><c.ruby_after></c></c><c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent><c.ruby_after><ruby>う<rt>●</rt></ruby><c.ruby_after></c></c>
 
 15
 00:00:26.000 --> 00:00:27.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-I.5. Character Limitation 
-horizontal, 13 full-width characters
+<c.Japanese><c.bg_transparent>I.5. Character Limitation 
+horizontal, 13 full-width characters</c></c>
 
 16
 00:00:26.000 --> 00:00:27.000 position:50.00%,middle align:start size:80.00% line:90.00%,end 
-これが横の全角文字制限です
+<c.Japanese><c.bg_transparent>これが横の全角文字制限です</c></c>
 
 17
 00:00:27.000 --> 00:00:28.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-I.5. Character Limitation 
-vertical, 11 full-width characters
+<c.Japanese><c.bg_transparent>I.5. Character Limitation 
+vertical, 11 full-width characters</c></c>
 
 18
 00:00:27.000 --> 00:00:28.000 vertical:rl position:50.00%,middle align:start size:80.00% line:10.00%,start 
-これが縦の文字制限です
+<c.Japanese><c.bg_transparent>これが縦の文字制限です</c></c>
 
 19
 00:00:29.000 --> 00:00:30.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-I.7. Continuity
-horizontal, pause
+<c.Japanese><c.bg_transparent>I.7. Continuity
+horizontal, pause</c></c>
 
 20
 00:00:29.000 --> 00:00:30.000 position:50.00%,middle align:start size:80.00% line:90.00%,end 
- そんなバカな…
+<c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent>そんなバカな…</c></c>
 
 21
 00:00:30.000 --> 00:00:31.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-I.7. Continuity
-vertical, pause
+<c.Japanese><c.bg_transparent>I.7. Continuity
+vertical, pause</c></c>
 
 22
 00:00:30.000 --> 00:00:31.000 vertical:rl position:50.00%,middle align:start size:80.00% line:10.00%,start 
- そんなバカな…
+<c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent>そんなバカな…</c></c>
 
 23
 00:00:31.000 --> 00:00:32.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-I.7. Continuity
-horizontal, long vowel
+<c.Japanese><c.bg_transparent>I.7. Continuity
+horizontal, long vowel</c></c>
 
 24
 00:00:31.000 --> 00:00:32.000 position:50.00%,middle align:start size:80.00% line:90.00%,end 
- コーヒーメーカー
+<c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent>コーヒーメーカー</c></c>
 
 25
 00:00:32.000 --> 00:00:33.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-I.7. Continuity
-vertical, long vowel
+<c.Japanese><c.bg_transparent>I.7. Continuity
+vertical, long vowel</c></c>
 
 26
 00:00:32.000 --> 00:00:33.000 vertical:rl position:50.00%,middle align:start size:80.00% line:10.00%,start 
- コーヒーメーカー
+<c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent>コーヒーメーカー</c></c>
 
 27
 00:00:33.000 --> 00:00:34.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-I.7. Continuity
-horizontal, two-em dash
+<c.Japanese><c.bg_transparent>I.7. Continuity
+horizontal, two-em dash</c></c>
 
 28
 00:00:33.000 --> 00:00:34.000 position:50.00%,middle align:start size:80.00% line:90.00%,end 
- 初めて見たとき⸺
+<c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent>初めて見たとき⸺</c></c>
 
 29
 00:00:34.000 --> 00:00:35.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-I.7. Continuity
-horizontal, two-em dash
+<c.Japanese><c.bg_transparent>I.7. Continuity
+horizontal, two-em dash</c></c>
 
 30
 00:00:34.000 --> 00:00:35.000 position:50.00%,middle align:start size:80.00% line:90.00%,end 
- 感動したよ
+<c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent>感動したよ</c></c>
 
 31
 00:00:35.000 --> 00:00:36.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-I.7. Continuity
-vertical, two-em dash
+<c.Japanese><c.bg_transparent>I.7. Continuity
+vertical, two-em dash</c></c>
 
 32
 00:00:35.000 --> 00:00:36.000 vertical:rl position:50.00%,middle align:start size:80.00% line:10.00%,start 
- 初めて見たとき⸺
+<c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent>初めて見たとき⸺</c></c>
 
 33
 00:00:36.000 --> 00:00:37.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-I.7. Continuity
-vertical, two-em dash
+<c.Japanese><c.bg_transparent>I.7. Continuity
+vertical, two-em dash</c></c>
 
 34
 00:00:36.000 --> 00:00:37.000 vertical:rl position:50.00%,middle align:start size:80.00% line:10.00%,start 
- 感動したよ
+<c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent>感動したよ</c></c>
 
 35
 00:00:38.000 --> 00:00:38.500 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-I.9. Duration
+<c.Japanese><c.bg_transparent>I.9. Duration</c></c>
 
 36
 00:00:38.500 --> 00:00:39.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-I.9. Duration
+<c.Japanese><c.bg_transparent>I.9. Duration</c></c>
 
 37
 00:00:38.500 --> 00:00:39.000 position:50.00%,middle align:start size:80.00% line:90.00%,end 
- 字幕の最短表示時間（500ミリ秒）
+<c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent>字幕の最短表示時間（500ミリ秒）</c></c>
 
 38
 00:00:39.000 --> 00:00:39.500 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-I.9. Duration
+<c.Japanese><c.bg_transparent>I.9. Duration</c></c>
 
 39
 00:00:39.500 --> 00:00:40.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-I.9. Duration
+<c.Japanese><c.bg_transparent>I.9. Duration</c></c>
 
 40
 00:00:39.500 --> 00:00:40.000 vertical:rl position:50.00%,middle align:start size:80.00% line:10.00%,start 
- 字幕の最短表示時間
-（５００ミリ秒）
+<c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent>字幕の最短表示時間
+（５００ミリ秒）</c></c>
 
 41
 00:00:41.000 --> 00:00:41.500 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-I.11. On-screen Text
-horizontal
+<c.Japanese><c.bg_transparent>I.11. On-screen Text
+horizontal</c></c>
 
 42
 00:00:41.000 --> 00:00:41.500 position:50.00%,middle align:start size:80.00% line:90.00%,end 
- 長い横字幕
+<c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent>長い横字幕</c></c>
 
 43
 00:00:41.500 --> 00:00:42.500 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-I.11. On-screen Text
-horizontal
+<c.Japanese><c.bg_transparent>I.11. On-screen Text
+horizontal</c></c>
 
 44
 00:00:41.500 --> 00:00:42.500 position:50.00%,middle align:start size:80.00% line:90.00%,end 
- 長い横字幕
+<c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent>長い横字幕</c></c>
 
 45
 00:00:41.500 --> 00:00:42.500 vertical:rl position:50.00%,middle align:start size:80.00% line:10.00%,start 
- 強制字幕
+<c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent>強制字幕</c></c>
 
 46
 00:00:42.500 --> 00:00:43.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-I.11. On-screen Text
-horizontal
+<c.Japanese><c.bg_transparent>I.11. On-screen Text
+horizontal</c></c>
 
 47
 00:00:42.500 --> 00:00:43.000 position:50.00%,middle align:start size:80.00% line:90.00%,end 
- 長い横字幕
+<c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent>長い横字幕</c></c>
 
 48
 00:00:43.000 --> 00:00:43.500 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-I.11. On-screen Text
-vertical
+<c.Japanese><c.bg_transparent>I.11. On-screen Text
+vertical</c></c>
 
 49
 00:00:43.000 --> 00:00:43.500 vertical:rl position:50.00%,middle align:start size:80.00% line:10.00%,start 
- 長い縦字幕
+<c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent>長い縦字幕</c></c>
 
 50
 00:00:43.500 --> 00:00:44.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-I.11. On-screen Text
-vertical
+<c.Japanese><c.bg_transparent>I.11. On-screen Text
+vertical</c></c>
 
 51
 00:00:43.500 --> 00:00:44.000 vertical:rl position:50.00%,middle align:start size:80.00% line:10.00%,start 
- 長い縦字幕
+<c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent>長い縦字幕</c></c>
 
 52
 00:00:43.500 --> 00:00:44.000 vertical:rl position:50.00%,middle align:start size:80.00% line:90.00%,end 
- 強制字幕
+<c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent>強制字幕</c></c>
 
 53
 00:00:44.000 --> 00:00:45.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-I.11. On-screen Text
-vertical
+<c.Japanese><c.bg_transparent>I.11. On-screen Text
+vertical</c></c>
 
 54
 00:00:44.000 --> 00:00:45.000 vertical:rl position:50.00%,middle align:start size:80.00% line:10.00%,start 
- 長い縦字幕
+<c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent>長い縦字幕</c></c>
 
 55
 00:00:46.000 --> 00:00:47.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-I.12. Foreign Dialogue
-horizontal
+<c.Japanese><c.bg_transparent>I.12. Foreign Dialogue
+horizontal</c></c>
 
 56
 00:00:46.000 --> 00:00:47.000 position:50.00%,middle align:start size:80.00% line:90.00%,end 
- 〈T外国語のセリフ〉
+<c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent>〈T外国語のセリフ〉</c></c>
 
 57
 00:00:47.000 --> 00:00:48.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-I.12. Foreign Dialogue
-vertical
+<c.Japanese><c.bg_transparent>I.12. Foreign Dialogue
+vertical</c></c>
 
 58
 00:00:47.000 --> 00:00:48.000 vertical:rl position:50.00%,middle align:start size:80.00% line:10.00%,start 
-〈外国語のセリフ〉
+<c.Japanese><c.bg_transparent>〈外国語のセリフ〉</c></c>
 
 59
 00:00:48.000 --> 00:00:49.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-I.12. Foreign Dialogue
-horizontal, nakaguro
+<c.Japanese><c.bg_transparent>I.12. Foreign Dialogue
+horizontal, nakaguro</c></c>
 
 60
 00:00:48.000 --> 00:00:49.000 position:50.00%,middle align:start size:80.00% line:90.00%,end 
- ビル･ゲイツ
+<c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent>ビル･ゲイツ</c></c>
 
 61
 00:00:49.000 --> 00:00:50.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-I.12. Foreign Dialogue
-vertical, nakaguro
+<c.Japanese><c.bg_transparent>I.12. Foreign Dialogue
+vertical, nakaguro</c></c>
 
 62
 00:00:49.000 --> 00:00:50.000 vertical:rl position:50.00%,middle align:start size:80.00% line:10.00%,start 
-ビル･ゲイツ
+<c.Japanese><c.bg_transparent>ビル･ゲイツ</c></c>
 
 63
 00:00:51.000 --> 00:00:52.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-I.13. Italics
-horizontal
+<c.Japanese><c.bg_transparent>I.13. Italics
+horizontal</c></c>
 
 64
 00:00:51.000 --> 00:00:52.000 position:50.00%,middle align:start size:80.00% line:90.00%,end 
-イタリック
+<c.Japanese><c.bg_transparent>イタリック</c></c>
 
 65
 00:00:52.000 --> 00:00:53.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-I.13. Italics
-vertical
+<c.Japanese><c.bg_transparent>I.13. Italics
+vertical</c></c>
 
 66
 00:00:52.000 --> 00:00:53.000 vertical:rl position:50.00%,middle align:start size:80.00% line:10.00%,start 
-イタリック
+<c.Japanese><c.bg_transparent>イタリック</c></c>
 
 67
 00:00:54.000 --> 00:00:55.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-I.14. Line Limitation
-horizontal
+<c.Japanese><c.bg_transparent>I.14. Line Limitation
+horizontal</c></c>
 
 68
 00:00:54.000 --> 00:00:55.000 position:50.00%,middle align:start size:80.00% line:90.00%,end 
-２行の
-字幕
+<c.Japanese><c.bg_transparent>２行の</c></c>
+<c.Japanese><c.bg_transparent>字幕</c></c>
 
 69
 00:00:55.000 --> 00:00:57.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-I.14. Line Limitation
-vertical
+<c.Japanese><c.bg_transparent>I.14. Line Limitation
+vertical</c></c>
 
 70
 00:00:55.000 --> 00:00:57.000 vertical:rl position:50.00%,middle align:start size:80.00% line:10.00%,start 
- ２行の
-字幕
+<c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent>２行の</c></c>
+<c.Japanese><c.bg_transparent>字幕</c></c>
 
 71
 00:00:55.000 --> 00:00:57.000 vertical:rl position:50.00%,middle align:start size:80.00% line:90.00%,end 
- ３行の
-強制
-字幕
+<c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent>３行の</c></c>
+<c.Japanese><c.bg_transparent>強制</c></c>
+<c.Japanese><c.bg_transparent>字幕</c></c>
 
 72
 00:00:58.000 --> 00:00:59.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-I.15. Numbers
-horizontal
+<c.Japanese><c.bg_transparent>I.15. Numbers
+horizontal</c></c>
 
 73
 00:00:58.000 --> 00:00:59.000 position:50.00%,middle align:start size:80.00% line:90.00%,end 
- 全角一桁の数字　１
- 半角複数桁の数字　12、345
+<c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent>全角一桁の数字　１</c></c>
+<c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent>半角複数桁の数字　12、345</c></c>
 
 74
 00:00:59.000 --> 00:01:00.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-I.15. Numbers
-vertical
+<c.Japanese><c.bg_transparent>I.15. Numbers
+vertical</c></c>
 
 75
 00:00:59.000 --> 00:01:00.000 vertical:rl position:50.00%,middle align:start size:80.00% line:10.00%,start 
- 全角一桁の数字　１
- 二桁の数字 <c.text_combine>12</c.text_combine>
- 三桁の数字　３４５ 
+<c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent>全角一桁の数字　１</c></c>
+<c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent>二桁の数字 </c></c><c.Japanese><c.text_combine><c.bg_transparent>12</c></c></c>
+<c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent>三桁の数字　３４５ </c></c>
 
 76
 00:01:00.000 --> 00:01:01.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-I.15. Numbers
-horizontal, decimal and large numbers
+<c.Japanese><c.bg_transparent>I.15. Numbers
+horizontal, decimal and large numbers</c></c>
 
 77
 00:01:00.000 --> 00:01:01.000 position:50.00%,middle align:start size:80.00% line:90.00%,end 
- 小数点　１.５
- 桁の大きい数字　1500、１万2345
+<c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent>小数点　１.５</c></c>
+<c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent>桁の大きい数字　1500、１万2345</c></c>
 
 78
 00:01:01.000 --> 00:01:02.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-I.15. Numbers
-vertical, decimal and large numbers
+<c.Japanese><c.bg_transparent>I.15. Numbers
+vertical, decimal and large numbers</c></c>
 
 79
 00:01:01.000 --> 00:01:02.000 vertical:rl position:50.00%,middle align:start size:80.00% line:10.00%,start 
- 小数点　１･５
- 桁の大きい数字　１５００　１万２３４５
+<c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent>小数点　１･５</c></c>
+<c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent>桁の大きい数字　１５００　１万２３４５</c></c>
 
 80
 00:01:02.000 --> 00:01:03.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-I.15. Numbers
-horizontal, currency
+<c.Japanese><c.bg_transparent>I.15. Numbers
+horizontal, currency</c></c>
 
 81
 00:01:02.000 --> 00:01:03.000 position:50.00%,middle align:start size:80.00% line:90.00%,end 
-通貨　10ドル　5ユーロ
+<c.Japanese><c.bg_transparent>通貨　10ドル　5ユーロ</c></c>
 
 82
 00:01:03.000 --> 00:01:04.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-I.15. Numbers
-vertical, currency
+<c.Japanese><c.bg_transparent>I.15. Numbers
+vertical, currency</c></c>
 
 83
 00:01:03.000 --> 00:01:04.000 vertical:rl position:50.00%,middle align:start size:80.00% line:10.00%,start 
-通貨　10ドル　５ユーロ
+<c.Japanese><c.bg_transparent>通貨　10ドル　５ユーロ</c></c>
 
 84
 00:01:05.000 --> 00:01:06.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-I.15. Punctuation
-horizontal
+<c.Japanese><c.bg_transparent>I.15. Punctuation
+horizontal</c></c>
 
 85
 00:01:05.000 --> 00:01:06.000 position:50.00%,middle align:start size:80.00% line:90.00%,end 
-まさか？ そんな！
+<c.Japanese><c.bg_transparent>まさか？ そんな！</c></c>
 
 86
 00:01:06.000 --> 00:01:07.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-I.15. Punctuation
-vertical
+<c.Japanese><c.bg_transparent>I.15. Punctuation
+vertical</c></c>
 
 87
 00:01:06.000 --> 00:01:07.000 vertical:rl position:50.00%,middle align:start size:80.00% line:10.00%,start 
-まさか？ そんな！
+<c.Japanese><c.bg_transparent>まさか？ そんな！</c></c>
 
 88
 00:01:07.000 --> 00:01:08.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-I.15. Punctuation
-horizontal, exceptional use of comma
+<c.Japanese><c.bg_transparent>I.15. Punctuation
+horizontal, exceptional use of comma</c></c>
 
 89
 00:01:07.000 --> 00:01:08.000 position:50.00%,middle align:start size:80.00% line:90.00%,end 
- タイトルに句読点を含む例外
-「 食べて、祈って、恋をして」
+<c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent>タイトルに句読点を含む例外</c></c>
+<c.Japanese><c.bg_transparent>「 食べて、祈って、恋をして」</c></c>
 
 90
 00:01:08.000 --> 00:01:09.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-I.15. Punctuation
-vertical, exceptional use of comma
+<c.Japanese><c.bg_transparent>I.15. Punctuation
+vertical, exceptional use of comma</c></c>
 
 91
 00:01:08.000 --> 00:01:09.000 vertical:rl position:50.00%,middle align:start size:80.00% line:10.00%,start 
- タイトルに句読点を含む例外 １、２、３
+<c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent>タイトルに句読点を含む例外</c></c><c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent>１、２、３</c></c>
 
 92
 00:01:10.000 --> 00:01:11.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-I.18. Quotes
-horizontal
+<c.Japanese><c.bg_transparent>I.18. Quotes
+horizontal</c></c>
 
 93
 00:01:10.000 --> 00:01:11.000 position:50.00%,middle align:start size:80.00% line:90.00%,end 
-これは“開かずの扉”だって
+<c.Japanese><c.bg_transparent>これは“開かずの扉”だって</c></c>
 
 94
 00:01:11.000 --> 00:01:12.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-I.18. Quotes
-vertical, multiple events
+<c.Japanese><c.bg_transparent>I.18. Quotes
+vertical, multiple events</c></c>
 
 95
 00:01:11.000 --> 00:01:12.000 vertical:rl position:50.00%,middle align:start size:80.00% line:10.00%,start 
-〝引用が長く続く場合は⸺〟
+<c.Japanese><c.bg_transparent>〝引用が長く続く場合は⸺〟</c></c>
 
 96
 00:01:12.000 --> 00:01:13.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-I.18. Quotes
-vertical, multiple events
+<c.Japanese><c.bg_transparent>I.18. Quotes
+vertical, multiple events</c></c>
 
 97
 00:01:12.000 --> 00:01:13.000 vertical:rl position:50.00%,middle align:start size:80.00% line:10.00%,start 
-〝毎回引用符を閉じます〟
+<c.Japanese><c.bg_transparent>〝毎回引用符を閉じます〟</c></c>
 
 98
 00:01:14.000 --> 00:01:16.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-I.20. Ruby（ルビ）
-horizontal
+<c.Japanese><c.bg_transparent>I.20. Ruby（ルビ）
+horizontal</c></c>
 
 99
 00:01:14.000 --> 00:01:16.000 position:50.00%,middle align:start size:80.00% line:90.00%,end 
-太孫たいそんのペクチョンを連れ
-北漢プッカン山に登り
+<c.Japanese><c.bg_transparent>太孫たいそんのペクチョンを連れ</c></c>
+<c.Japanese><c.bg_transparent>北漢プッカン山に登り</c></c>
 
 100
 00:01:16.000 --> 00:01:18.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-I.20. Ruby（ルビ）
-vertical, right
+<c.Japanese><c.bg_transparent>I.20. Ruby（ルビ）
+vertical, right</c></c>
 
 101
 00:01:16.000 --> 00:01:18.000 vertical:rl position:50.00%,middle align:start size:80.00% line:10.00%,start 
-太孫たいそんのペクチョンを連れ
-北漢プッカン山に登り
+<c.Japanese><c.bg_transparent>太孫たいそんのペクチョンを連れ</c></c>
+<c.Japanese><c.bg_transparent>北漢プッカン山に登り</c></c>
 
 102
 00:01:18.000 --> 00:01:20.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-I.20. Ruby（ルビ）
-vertical, left
+<c.Japanese><c.bg_transparent>I.20. Ruby（ルビ）
+vertical, left</c></c>
 
 103
 00:01:18.000 --> 00:01:20.000 vertical:rl position:50.00%,middle align:start size:80.00% line:90.00%,end 
-太孫たいそんのペクチョンを連れ
-北漢プッカン山に登り
+<c.Japanese><c.bg_transparent>太孫たいそんのペクチョンを連れ</c></c>
+<c.Japanese><c.bg_transparent>北漢プッカン山に登り</c></c>
 
 104
 00:01:21.000 --> 00:01:23.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-I.21. Songs
+<c.Japanese><c.bg_transparent>I.21. Songs</c></c>
 
 105
 00:01:21.000 --> 00:01:23.000 position:50.00%,middle align:start size:80.00% line:90.00%,end 
-あきらめない
-　　　明日の太陽
+<c.Japanese><c.bg_transparent>あきらめない</c></c>
+<c.Japanese><c.bg_transparent>　　　明日の太陽</c></c>
 
 106
 00:01:24.000 --> 00:01:26.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-II.4. Alignment
+<c.Japanese><c.bg_transparent>II.4. Alignment</c></c>
 
 107
 00:01:24.000 --> 00:01:26.000 position:50.00%,middle align:middle size:80.00% line:90.00%,end 
-昨日は昨日 今日は今日でしょ
-（電話の着信音）
+<c.Japanese><c.bg_transparent>昨日は昨日 今日は今日でしょ</c></c>
+<c.Japanese><c.bg_transparent>（電話の着信音）</c></c>
 
 108
 00:01:27.000 --> 00:01:29.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-II.9. Dual Speakers
+<c.Japanese><c.bg_transparent>II.9. Dual Speakers</c></c>
 
 109
 00:01:27.000 --> 00:01:29.000 position:50.00%,middle align:start size:80.00% line:90.00%,end 
-（みのり）はじめまして
-（アルマン）よろしくお願いします
+<c.Japanese><c.bg_transparent>（みのり）はじめまして</c></c>
+<c.Japanese><c.bg_transparent>（アルマン）よろしくお願いします</c></c>
 
 110
 00:01:30.000 --> 00:01:31.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-II.20. Songs
+<c.Japanese><c.bg_transparent>II.20. Songs</c></c>
 
 111
 00:01:30.000 --> 00:01:31.000 position:50.00%,middle align:start size:80.00% line:90.00%,end 
-♪～
+<c.Japanese><c.bg_transparent>♪～</c></c>
 
 112
 00:01:31.000 --> 00:01:32.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-II.20. Songs
+<c.Japanese><c.bg_transparent>II.20. Songs</c></c>
 
 113
 00:01:31.000 --> 00:01:32.000 position:50.00%,middle align:start size:80.00% line:90.00%,end 
-あきらめない
-　　　明日の太陽
+<c.Japanese><c.bg_transparent>あきらめない</c></c>
+<c.Japanese><c.bg_transparent>　　　明日の太陽</c></c>
 
 114
 00:01:32.000 --> 00:01:33.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-II.20. Songs
+<c.Japanese><c.bg_transparent>II.20. Songs</c></c>
 
 115
 00:01:32.000 --> 00:01:33.000 position:50.00%,middle align:start size:80.00% line:90.00%,end 
-～♪
+<c.Japanese><c.bg_transparent>～♪</c></c>
 
 116
 00:01:34.000 --> 00:01:36.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-II.21. Speaker ID / Sound Effects
+<c.Japanese><c.bg_transparent>II.21. Speaker ID / Sound Effects</c></c>
 
 117
 00:01:34.000 --> 00:01:36.000 position:50.00%,middle align:middle size:80.00% line:90.00%,end 
-（電話の着信音）
-昨日は昨日 今日は今日でしょ
+<c.Japanese><c.bg_transparent>（電話の着信音）</c></c>
+<c.Japanese><c.bg_transparent>昨日は昨日 今日は今日でしょ</c></c>
 
 118
 00:01:36.000 --> 00:01:38.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-II.21. Speaker ID / Sound Effects
+<c.Japanese><c.bg_transparent>II.21. Speaker ID / Sound Effects</c></c>
 
 119
 00:01:36.000 --> 00:01:38.000 position:50.00%,middle align:start size:80.00% line:90.00%,end 
- (スペイン語)お元気ですか
+<c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent>(スペイン語)お元気ですか</c></c>
 
 120
 00:01:38.000 --> 00:01:40.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-II.21. Speaker ID / Sound Effects
+<c.Japanese><c.bg_transparent>II.21. Speaker ID / Sound Effects</c></c>
 
 121
 00:01:38.000 --> 00:01:40.000 position:50.00%,middle align:start size:80.00% line:90.00%,end 
- (スペイン語)
+<c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent>(スペイン語)</c></c>
 
 122
 00:01:40.000 --> 00:01:41.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-II.22. Special Instructions
-horizontal
+<c.Japanese><c.bg_transparent>II.22. Special Instructions
+horizontal</c></c>
 
 123
 00:01:40.000 --> 00:01:41.000 position:50.00%,middle align:start size:80.00% line:90.00%,end 
- （無音のセリフ）
+<c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent>（無音のセリフ）</c></c>
 
 124
 00:01:41.000 --> 00:01:42.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-II.22. Special Instructions
-vertical
+<c.Japanese><c.bg_transparent>II.22. Special Instructions
+vertical</c></c>
 
 125
 00:01:41.000 --> 00:01:42.000 vertical:rl position:50.00%,middle align:start size:80.00% line:10.00%,start 
- （無音のセリフ）
+<c.Japanese><c.bg_transparent> </c></c><c.Japanese><c.bg_transparent>（無音のセリフ）</c></c>
 
