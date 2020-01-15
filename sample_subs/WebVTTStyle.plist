@@ -14,6 +14,8 @@
 		<string>CMGenericFontName_MonospaceSansSerif</string>
 		<key>CMBaseFontSizePercentage</key>
 		<real>4.1</real>
+		<key>CMCharacterEdgeStyle</key>
+		<string>CMCharacterEdgeStyle_Uniform</real>
 		<key>CMTextSelector</key>
 		<string>::cue</string>
 	</dict>
@@ -793,6 +795,18 @@
 		<string>CMGenericFontName_SmallCapital</string>
 		<key>CMTextSelector</key>
 		<string>.small_caps</string>
+	</dict>
+	<dict>
+		<key>CMRubyPosition</key>
+		<string>CMRubyPosition_Before</string>
+		<key>CMTextSelector</key>
+		<string>.ruby_before</string>
+	</dict>
+	<dict>
+		<key>CMRubyPosition</key>
+		<string>CMRubyPosition_After</string>
+		<key>CMTextSelector</key>
+		<string>.ruby_after</string>
 	</dict>
 </array>
 </plist>
