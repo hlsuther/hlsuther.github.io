@@ -861,7 +861,7 @@
 		<key>CMHorizontalInVerticalForms</key>
 		<integer>2</integer>
 		<key>CMTextSelector</key>
-		<string>.text_combine/string>
+		<string>.text_combinei</string>
 	</dict>
 </array>
 </plist>
