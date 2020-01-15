@@ -15,7 +15,7 @@
 		<key>CMBaseFontSizePercentage</key>
 		<real>8.0</real>
 		<key>CMCharacterEdgeStyle</key>
-		<string>CMCharacterEdgeStyle_Uniform</real>
+		<string>CMCharacterEdgeStyle_Uniform</string>
 		<key>CMCharacterBackgroundColorARGB</key>
 		<array>
 			<real>0.5</real>
