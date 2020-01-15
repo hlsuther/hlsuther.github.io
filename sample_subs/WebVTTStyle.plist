@@ -13,7 +13,7 @@
 		<key>CMGenericFontFamilyName</key>
 		<string>CMGenericFontName_MonospaceSansSerif</string>
 		<key>CMBaseFontSizePercentage</key>
-		<real>6.0</real>
+		<real>8.0</real>
 		<key>CMCharacterEdgeStyle</key>
 		<string>CMCharacterEdgeStyle_Uniform</real>
 		<key>CMCharacterBackgroundColorARGB</key>
@@ -21,7 +21,7 @@
 			<real>0.5</real>
 			<integer>1</integer>
 			<integer>0</integer>
-			<integer>1</integer>
+			<integer>0</integer>
 		</array>
 		<key>CMTextSelector</key>
 		<string>::cue</string>
