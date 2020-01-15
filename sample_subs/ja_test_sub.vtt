@@ -2,10 +2,10 @@
 
 NOTE Netflix
 NOTE Profile: webvtt-lssdh-ios13
-NOTE Date: 2020/01/15 10:32:38
+NOTE Date: 2020/01/15 10:36:35
 
 NOTE SegmentIndex
-NOTE Segment=102.000 34743@204 125
+NOTE Segment=102.000 37741@204 125
 NOTE /SegmentIndex
 
                                        
@@ -54,8 +54,8 @@ horizontal</c.bg_transparent></c.Japanese>
 
 10
 00:00:19.000 --> 00:00:21.000 position:50.00%,middle align:start size:80.00% line:90.00%,end 
-<c.Japanese><c.bg_transparent> 強 調 し た い 時 に 使 う 
- 強 調 し た い 時 に 使 う </c.bg_transparent></c.Japanese>
+<c.Japanese><c.bg_transparent><c.ruby_before><ruby>強<rt>•</rt></ruby><c.ruby_before></c.bg_transparent></c.Japanese><c.Japanese><c.bg_transparent> </c.bg_transparent></c.Japanese><c.Japanese><c.bg_transparent><c.ruby_after><ruby>調<rt>•</rt></ruby><c.ruby_after></c.bg_transparent></c.Japanese><c.Japanese><c.bg_transparent> </c.bg_transparent></c.Japanese><c.Japanese><c.bg_transparent><c.ruby_after><ruby>し<rt>●</rt></ruby><c.ruby_after></c.bg_transparent></c.Japanese><c.Japanese><c.bg_transparent> </c.bg_transparent></c.Japanese><c.Japanese><c.bg_transparent><c.ruby_after><ruby>た<rt>○</rt></ruby><c.ruby_after></c.bg_transparent></c.Japanese><c.Japanese><c.bg_transparent> </c.bg_transparent></c.Japanese><c.Japanese><c.bg_transparent><c.ruby_after><ruby>い<rt>◦</rt></ruby><c.ruby_after></c.bg_transparent></c.Japanese><c.Japanese><c.bg_transparent> </c.bg_transparent></c.Japanese><c.Japanese><c.bg_transparent><c.ruby_after><ruby>時<rt>﹅</rt></ruby><c.ruby_after></c.bg_transparent></c.Japanese><c.Japanese><c.bg_transparent> </c.bg_transparent></c.Japanese><c.Japanese><c.bg_transparent><c.ruby_after><ruby>に<rt>﹆</rt></ruby><c.ruby_after></c.bg_transparent></c.Japanese><c.Japanese><c.bg_transparent> </c.bg_transparent></c.Japanese><c.Japanese><c.bg_transparent><c.ruby_after><ruby>使<rt>●</rt></ruby><c.ruby_after></c.bg_transparent></c.Japanese><c.Japanese><c.bg_transparent> </c.bg_transparent></c.Japanese><c.Japanese><c.bg_transparent><c.ruby_after><ruby>う<rt>●</rt></ruby><c.ruby_after></c.bg_transparent></c.Japanese>
+<c.Japanese><c.bg_transparent><c.ruby_after><ruby>強<rt>•</rt></ruby><c.ruby_after></c.bg_transparent></c.Japanese><c.Japanese><c.bg_transparent> </c.bg_transparent></c.Japanese><c.Japanese><c.bg_transparent><c.ruby_after><ruby>調<rt>•</rt></ruby><c.ruby_after></c.bg_transparent></c.Japanese><c.Japanese><c.bg_transparent> </c.bg_transparent></c.Japanese><c.Japanese><c.bg_transparent><c.ruby_after><ruby>し<rt>●</rt></ruby><c.ruby_after></c.bg_transparent></c.Japanese><c.Japanese><c.bg_transparent> </c.bg_transparent></c.Japanese><c.Japanese><c.bg_transparent><c.ruby_after><ruby>た<rt>○</rt></ruby><c.ruby_after></c.bg_transparent></c.Japanese><c.Japanese><c.bg_transparent> </c.bg_transparent></c.Japanese><c.Japanese><c.bg_transparent><c.ruby_after><ruby>い<rt>◦</rt></ruby><c.ruby_after></c.bg_transparent></c.Japanese><c.Japanese><c.bg_transparent> </c.bg_transparent></c.Japanese><c.Japanese><c.bg_transparent><c.ruby_after><ruby>時<rt>﹅</rt></ruby><c.ruby_after></c.bg_transparent></c.Japanese><c.Japanese><c.bg_transparent> </c.bg_transparent></c.Japanese><c.Japanese><c.bg_transparent><c.ruby_after><ruby>に<rt>﹆</rt></ruby><c.ruby_after></c.bg_transparent></c.Japanese><c.Japanese><c.bg_transparent> </c.bg_transparent></c.Japanese><c.Japanese><c.bg_transparent><c.ruby_after><ruby>使<rt>●</rt></ruby><c.ruby_after></c.bg_transparent></c.Japanese><c.Japanese><c.bg_transparent> </c.bg_transparent></c.Japanese><c.Japanese><c.bg_transparent><c.ruby_after><ruby>う<rt>●</rt></ruby><c.ruby_after></c.bg_transparent></c.Japanese>
 
 11
 00:00:21.000 --> 00:00:23.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
