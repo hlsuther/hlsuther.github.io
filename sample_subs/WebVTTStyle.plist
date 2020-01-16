@@ -14,15 +14,6 @@
 		<string>CMGenericFontName_MonospaceSansSerif</string>
 		<key>CMBaseFontSizePercentage</key>
 		<real>4.1</real>
-		<key>CMCharacterEdgeStyle</key>
-		<string>CMCharacterEdgeStyle_Uniform</string>
-		<key>CMCharacterBackgroundColorARGB</key>
-		<array>
-			<real>0.5</real>
-			<integer>1</integer>
-			<integer>0</integer>
-			<integer>0</integer>
-		</array>
 		<key>CMTextSelector</key>
 		<string>::cue</string>
 	</dict>
@@ -680,6 +671,14 @@
 		<string>CMGenericFontName_MonospaceSansSerif</string>
 		<key>CMTextSelector</key>
 		<string>.default</string>
+	</dict>
+	<dict>
+		<key>CMGenericFontFamilyName</key>
+		<string>CMGenericFontName_ProportionalSansSerif</string>
+		<key>CMTextSelector</key>
+		<string>.japanese</string>
+		<key>CMBaseFontSizePercentage</key>
+		<real>4.9</real>
 	</dict>
 	<dict>
 		<key>CMGenericFontFamilyName</key>
