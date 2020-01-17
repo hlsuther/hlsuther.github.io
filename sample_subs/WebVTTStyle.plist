@@ -676,9 +676,9 @@
 		<key>CMGenericFontFamilyName</key>
 		<string>CMGenericFontName_ProportionalSansSerif</string>
 		<key>CMTextSelector</key>
-		<string>.japanese</string>
+		<string>.Japanese</string>
 		<key>CMBaseFontSizePercentage</key>
-		<real>4.9</real>
+		<real>4.1</real>
 	</dict>
 	<dict>
 		<key>CMGenericFontFamilyName</key>
