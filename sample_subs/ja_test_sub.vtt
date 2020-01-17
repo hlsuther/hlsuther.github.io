@@ -2,10 +2,10 @@
 
 NOTE Netflix
 NOTE Profile: webvtt-lssdh-ios13
-NOTE Date: 2020/01/17 11:50:34
+NOTE Date: 2020/01/17 12:37:43
 
 NOTE SegmentIndex
-NOTE Segment=68.000 5243@202 18
+NOTE Segment=68.000 3383@202 18
 NOTE /SegmentIndex
 
                                         
@@ -13,88 +13,88 @@ NOTE /SegmentIndex
 
 1
 00:00:15.000 --> 00:00:20.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-<c.Japanese><c.bg_transparent>I.15. Numbers
-vertical</c.bg_transparent></c.Japanese>
+I.15. Numbers
+vertical
 
 2
 00:00:15.000 --> 00:00:20.000 vertical:rl position:50.00%,middle align:start size:80.00% line:10.00%,start 
-<c.Japanese><c.bg_transparent> </c.bg_transparent></c.Japanese><c.Japanese><c.bg_transparent>全角一桁の数字　１</c.bg_transparent></c.Japanese>
-<c.Japanese><c.bg_transparent> </c.bg_transparent></c.Japanese><c.Japanese><c.bg_transparent>二桁の数字 </c.bg_transparent></c.Japanese><c.Japanese><c.text_combine><c.bg_transparent>12</c.bg_transparent></c.text_combine></c.Japanese>
-<c.Japanese><c.bg_transparent> </c.bg_transparent></c.Japanese><c.Japanese><c.bg_transparent>三桁の数字　３４５ </c.bg_transparent></c.Japanese>
+ 全角一桁の数字　１
+ 二桁の数字 <c.text_combine>12</c.text_combine>
+ 三桁の数字　３４５ 
 
 3
 00:00:21.000 --> 00:00:26.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-<c.Japanese><c.bg_transparent>I.15. Numbers
-vertical, decimal and large numbers</c.bg_transparent></c.Japanese>
+I.15. Numbers
+vertical, decimal and large numbers
 
 4
 00:00:21.000 --> 00:00:26.000 vertical:rl position:50.00%,middle align:start size:80.00% line:10.00%,start 
-<c.Japanese><c.bg_transparent> </c.bg_transparent></c.Japanese><c.Japanese><c.bg_transparent>小数点　１･５</c.bg_transparent></c.Japanese>
-<c.Japanese><c.bg_transparent> </c.bg_transparent></c.Japanese><c.Japanese><c.bg_transparent>桁の大きい数字　１５００　１万２３４５</c.bg_transparent></c.Japanese>
+ 小数点　１･５
+ 桁の大きい数字　１５００　１万２３４５
 
 5
 00:00:27.000 --> 00:00:32.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-<c.Japanese><c.bg_transparent>I.15. Numbers
-vertical, currency</c.bg_transparent></c.Japanese>
+I.15. Numbers
+vertical, currency
 
 6
 00:00:27.000 --> 00:00:32.000 vertical:rl position:50.00%,middle align:start size:80.00% line:10.00%,start 
-<c.Japanese><c.bg_transparent>通貨　<c.text_combine>10</c.text_combine>ドル　５ユーロ</c.bg_transparent></c.Japanese>
+通貨　<c.text_combine>10</c.text_combine>ドル　５ユーロ
 
 7
 00:00:33.000 --> 00:00:38.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-<c.Japanese><c.bg_transparent>I.20. Ruby（ルビ）
-horizontal - single line</c.bg_transparent></c.Japanese>
+I.20. Ruby（ルビ）
+horizontal - single line
 
 8
 00:00:33.000 --> 00:00:38.000 position:50.00%,middle align:start size:80.00% line:90.00%,end 
-<c.Japanese><c.bg_transparent><ruby>太孫<c.ruby_before><rt>たいそん</rt></c.ruby_before></ruby>のペクチョンを連れ</c.bg_transparent></c.Japanese>
+<ruby>太孫<c.ruby_before><rt>たいそん</rt></c.ruby_before></ruby>のペクチョンを連れ
 
 9
 00:00:39.000 --> 00:00:44.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-<c.Japanese><c.bg_transparent>I.20. Ruby（ルビ）
-horizontal - two lines</c.bg_transparent></c.Japanese>
+I.20. Ruby（ルビ）
+horizontal - two lines
 
 10
 00:00:39.000 --> 00:00:44.000 position:50.00%,middle align:start size:80.00% line:90.00%,end 
-<c.Japanese><c.bg_transparent><ruby>太孫<c.ruby_before><rt>たいそん</rt></c.ruby_before></ruby>のペクチョンを連れ</c.bg_transparent></c.Japanese>
-<c.Japanese><c.bg_transparent><ruby>北漢<c.ruby_after><rt>プッカン</rt></c.ruby_after></ruby>山に登り</c.bg_transparent></c.Japanese>
+<ruby>太孫<c.ruby_before><rt>たいそん</rt></c.ruby_before></ruby>のペクチョンを連れ
+<ruby>北漢<c.ruby_after><rt>プッカン</rt></c.ruby_after></ruby>山に登り
 
 11
 00:00:45.000 --> 00:00:50.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-<c.Japanese><c.bg_transparent>I.20. Ruby（ルビ）
-vertical, right - single line</c.bg_transparent></c.Japanese>
+I.20. Ruby（ルビ）
+vertical, right - single line
 
 12
 00:00:45.000 --> 00:00:50.000 vertical:rl position:50.00%,middle align:start size:80.00% line:10.00%,start 
-<c.Japanese><c.bg_transparent><ruby>太孫<c.ruby_before><rt>たいそん</rt></c.ruby_before></ruby>のペクチョンを連れ</c.bg_transparent></c.Japanese>
+<ruby>太孫<c.ruby_before><rt>たいそん</rt></c.ruby_before></ruby>のペクチョンを連れ
 
 13
 00:00:51.000 --> 00:00:56.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-<c.Japanese><c.bg_transparent>I.20. Ruby（ルビ）
-vertical, right - dual line</c.bg_transparent></c.Japanese>
+I.20. Ruby（ルビ）
+vertical, right - dual line
 
 14
 00:00:51.000 --> 00:00:56.000 vertical:rl position:50.00%,middle align:start size:80.00% line:10.00%,start 
-<c.Japanese><c.bg_transparent><ruby>太孫<c.ruby_before><rt>たいそん</rt></c.ruby_before></ruby>のペクチョンを連れ</c.bg_transparent></c.Japanese>
-<c.Japanese><c.bg_transparent><ruby>北漢<c.ruby_after><rt>プッカン</rt></c.ruby_after></ruby>山に登り</c.bg_transparent></c.Japanese>
+<ruby>太孫<c.ruby_before><rt>たいそん</rt></c.ruby_before></ruby>のペクチョンを連れ
+<ruby>北漢<c.ruby_after><rt>プッカン</rt></c.ruby_after></ruby>山に登り
 
 15
 00:00:57.000 --> 00:01:02.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-<c.Japanese><c.bg_transparent>I.20. Ruby（ルビ）
-vertical, left - single line</c.bg_transparent></c.Japanese>
+I.20. Ruby（ルビ）
+vertical, left - single line
 
 16
 00:00:57.000 --> 00:01:02.000 vertical:rl position:50.00%,middle align:start size:80.00% line:90.00%,end 
-<c.Japanese><c.bg_transparent><ruby>太孫<c.ruby_before><rt>たいそん</rt></c.ruby_before></ruby>のペクチョンを連れ</c.bg_transparent></c.Japanese>
+<ruby>太孫<c.ruby_before><rt>たいそん</rt></c.ruby_before></ruby>のペクチョンを連れ
 
 17
 00:01:03.000 --> 00:01:08.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-<c.Japanese><c.bg_transparent>I.20. Ruby（ルビ）
-vertical, left - dual lines</c.bg_transparent></c.Japanese>
+I.20. Ruby（ルビ）
+vertical, left - dual lines
 
 18
 00:01:03.000 --> 00:01:08.000 vertical:rl position:50.00%,middle align:start size:80.00% line:90.00%,end 
-<c.Japanese><c.bg_transparent><ruby>太孫<c.ruby_before><rt>たいそん</rt></c.ruby_before></ruby>のペクチョンを連れ</c.bg_transparent></c.Japanese>
-<c.Japanese><c.bg_transparent><ruby>北漢<c.ruby_after><rt>プッカン</rt></c.ruby_after></ruby>山に登り</c.bg_transparent></c.Japanese>
+<ruby>太孫<c.ruby_before><rt>たいそん</rt></c.ruby_before></ruby>のペクチョンを連れ
+<ruby>北漢<c.ruby_after><rt>プッカン</rt></c.ruby_after></ruby>山に登り
 
