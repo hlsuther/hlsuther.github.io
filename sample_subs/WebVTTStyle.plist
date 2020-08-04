@@ -858,9 +858,9 @@
 	</dict>
 	<dict>
 		<key>CMHorizontalInVerticalForms</key>
-		<integer>-1</integer>
+		<integer>2</integer>
 		<key>CMTextSelector</key>
-		<string>::cue(.text_combine)</string>
+		<string>.text_combine</string>
 	</dict>
 </array>
 </plist>
