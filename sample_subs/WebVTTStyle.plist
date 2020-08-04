@@ -860,7 +860,7 @@
 		<key>CMHorizontalInVerticalForms</key>
 		<integer>-1</integer>
 		<key>CMTextSelector</key>
-		<string>.text_combine</string>
+		<string>::cue(.text_combine)</string>
 	</dict>
 </array>
 </plist>
