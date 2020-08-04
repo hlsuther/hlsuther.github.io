@@ -2,99 +2,45 @@
 
 NOTE Netflix
 NOTE Profile: webvtt-lssdh-ios13
-NOTE Date: 2020/01/17 12:37:43
+NOTE Date: 1970/01/01 00:00:00
 
 NOTE SegmentIndex
-NOTE Segment=68.000 3383@202 18
+NOTE Segment=1105.855 316@274 1
+NOTE Segment=66.737 1894@590 6
 NOTE /SegmentIndex
 
-                                        
+                                                                                 
 
 
 1
-00:00:15.000 --> 00:00:20.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-I.15. Numbers
-vertical
+00:01:50.693 --> 00:01:54.405 position:50.00%,middle align:middle size:80.00% line:90.00%,end 
+<c.japanese><c.bg_transparent>あの子は<c.ruby_before><ruby>ア<rt>•</rt></ruby></c.ruby_before><c.ruby_before><ruby>レ<rt>•</rt></ruby></c.ruby_before>から
+隠れてたから</c.bg_transparent></c.japanese>
 
 2
-00:00:15.000 --> 00:00:20.000 vertical:rl position:50.00%,middle align:start size:80.00% line:10.00%,start 
- 全角一桁の数字　１
- 二桁の数字 <c.text_combine>12</c.text_combine>
- 三桁の数字　３４５ 
+00:18:25.854 --> 00:18:30.440 position:50.00%,middle align:middle size:80.00% line:90.00%,end 
+<c.japanese><c.bg_transparent><c.ruby_before><ruby>き<rt>•</rt></ruby></c.ruby_before><c.ruby_before><ruby>れ<rt>•</rt></ruby></c.ruby_before><c.ruby_before><ruby>い<rt>•</rt></ruby></c.ruby_before>にできた　いいね</c.bg_transparent></c.japanese>
 
 3
-00:00:21.000 --> 00:00:26.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-I.15. Numbers
-vertical, decimal and large numbers
+00:18:44.706 --> 00:18:49.791 position:50.00%,middle align:middle size:80.00% line:90.00%,end 
+<c.japanese><c.bg_transparent><c.ruby_before><ruby>き<rt>•</rt></ruby></c.ruby_before><c.ruby_before><ruby>れ<rt>•</rt></ruby></c.ruby_before><c.ruby_before><ruby>い<rt>•</rt></ruby></c.ruby_before></c.bg_transparent></c.japanese>
 
 4
-00:00:21.000 --> 00:00:26.000 vertical:rl position:50.00%,middle align:start size:80.00% line:10.00%,start 
- 小数点　１･５
- 桁の大きい数字　１５００　１万２３４５
+00:18:57.506 --> 00:19:02.591 position:50.00%,middle align:middle size:80.00% line:90.00%,end 
+<c.japanese><c.bg_transparent><c.ruby_after><ruby>き<rt>•</rt></ruby></c.ruby_after><c.ruby_after><ruby>れ<rt>•</rt></ruby></c.ruby_after><c.ruby_after><ruby>い<rt>•</rt></ruby></c.ruby_after></c.bg_transparent></c.japanese>
 
 5
-00:00:27.000 --> 00:00:32.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-I.15. Numbers
-vertical, currency
+00:19:07.506 --> 00:19:12.591 vertical:rl position:10.00%,start align:start size:80.00% line:10.00%,start 
+<c.japanese><c.bg_transparent>あの子は<c.ruby_before><ruby><c.text_combine>12</c.text_combine><rt>•</rt></ruby><c.ruby_before>から
+隠れてたから</c.bg_transparent></c.japanese>
 
 6
-00:00:27.000 --> 00:00:32.000 vertical:rl position:50.00%,middle align:start size:80.00% line:10.00%,start 
-通貨　<c.text_combine>10</c.text_combine>ドル　５ユーロ
+00:19:17.506 --> 00:19:22.591 position:50.00%,middle align:middle size:80.00% line:90.00%,end 
+<c.japanese><c.bg_transparent>あの子は
+　<c.ruby_before><ruby>か<rt>•</rt></ruby></c.ruby_before>　<c.ruby_before><ruby>ら<rt>•</rt></ruby></c.ruby_before> 隠れてたから</c.bg_transparent></c.japanese>
 
 7
-00:00:33.000 --> 00:00:38.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-I.20. Ruby（ルビ）
-horizontal - single line
-
-8
-00:00:33.000 --> 00:00:38.000 position:50.00%,middle align:start size:80.00% line:90.00%,end 
-<ruby>太孫<c.ruby_before><rt>たいそん</rt></c.ruby_before></ruby>のペクチョンを連れ
-
-9
-00:00:39.000 --> 00:00:44.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-I.20. Ruby（ルビ）
-horizontal - two lines
-
-10
-00:00:39.000 --> 00:00:44.000 position:50.00%,middle align:start size:80.00% line:90.00%,end 
-<ruby>太孫<c.ruby_before><rt>たいそん</rt></c.ruby_before></ruby>のペクチョンを連れ
-<ruby>北漢<c.ruby_after><rt>プッカン</rt></c.ruby_after></ruby>山に登り
-
-11
-00:00:45.000 --> 00:00:50.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-I.20. Ruby（ルビ）
-vertical, right - single line
-
-12
-00:00:45.000 --> 00:00:50.000 vertical:rl position:50.00%,middle align:start size:80.00% line:10.00%,start 
-<ruby>太孫<c.ruby_before><rt>たいそん</rt></c.ruby_before></ruby>のペクチョンを連れ
-
-13
-00:00:51.000 --> 00:00:56.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-I.20. Ruby（ルビ）
-vertical, right - dual line
-
-14
-00:00:51.000 --> 00:00:56.000 vertical:rl position:50.00%,middle align:start size:80.00% line:10.00%,start 
-<ruby>太孫<c.ruby_before><rt>たいそん</rt></c.ruby_before></ruby>のペクチョンを連れ
-<ruby>北漢<c.ruby_after><rt>プッカン</rt></c.ruby_after></ruby>山に登り
-
-15
-00:00:57.000 --> 00:01:02.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-I.20. Ruby（ルビ）
-vertical, left - single line
-
-16
-00:00:57.000 --> 00:01:02.000 vertical:rl position:50.00%,middle align:start size:80.00% line:90.00%,end 
-<ruby>太孫<c.ruby_before><rt>たいそん</rt></c.ruby_before></ruby>のペクチョンを連れ
-
-17
-00:01:03.000 --> 00:01:08.000 position:50.00%,middle align:middle size:80.00% line:10.00%,start 
-I.20. Ruby（ルビ）
-vertical, left - dual lines
-
-18
-00:01:03.000 --> 00:01:08.000 vertical:rl position:50.00%,middle align:start size:80.00% line:90.00%,end 
-<ruby>太孫<c.ruby_before><rt>たいそん</rt></c.ruby_before></ruby>のペクチョンを連れ
-<ruby>北漢<c.ruby_after><rt>プッカン</rt></c.ruby_after></ruby>山に登り
+00:19:27.506 --> 00:19:32.591 vertical:rl position:10.00%,start align:start size:80.00% line:10.00%,start 
+<c.japanese><c.bg_transparent>あの子は<c.text_combine>12</c.text_combine>から
+隠れてたから</c.bg_transparent></c.japanese>
 
