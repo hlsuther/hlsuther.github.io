@@ -858,7 +858,7 @@
 	</dict>
 	<dict>
 		<key>CMHorizontalInVerticalForms</key>
-		<integer>2</integer>
+		<integer>-1</integer>
 		<key>CMTextSelector</key>
 		<string>.text_combine</string>
 	</dict>
