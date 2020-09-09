@@ -1,4 +1,4 @@
-﻿WEBVTT
+WEBVTT
 
 NOTE Netflix
 NOTE Profile: webvtt-lssdh-ios13
@@ -543,7 +543,7 @@ NOTE /SegmentIndex
 
 128
 00:08:05.405 --> 00:08:06.165 position:50.00%,middle align:middle size:80.00% line:90.00%,end 
-<c.japanese><c.bg_transparent><ruby>&lrm;<c.bg_transparent>嘘</c.bg_transparent><c.bg_transparent><c.ruby_before><rt>うそ</rt></c.ruby_before></c.bg_transparent></ruby></c.bg_transparent></c.japanese><c.japanese><c.bg_transparent>&lrm;だろ</c.bg_transparent></c.japanese>
+<c.japanese><c.bg_transparent><ruby><c.bg_transparent>&lrm;嘘</c.bg_transparent><c.bg_transparent><c.ruby_before><rt>うそ</rt></c.ruby_before></c.bg_transparent></ruby></c.bg_transparent></c.japanese><c.japanese><c.bg_transparent>&lrm;だろ</c.bg_transparent></c.japanese>
 
 129
 00:08:06.245 --> 00:08:08.365 position:50.00%,middle align:middle size:80.00% line:90.00%,end 
